@@ -331,3 +331,33 @@ if (authenticationResponse.authenticated) {
 ```
 
 </details>
+
+
+### Works Search
+
+<details>
+<summary>Works</summary>
+<br>
+
+| Name   | Type   | Description                             | Example | required |
+|:-------|:-------|:----------------------------------------|:--------|----------|
+| olid   | String | the OLID to the works.                  | OL01W   | yes      |
+| offset | Long   | offset the list by the provided amount. | 50      | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchWorks.Response, ErrorResponse.Response>
+    = api.searchWorks(olid = "OL01W")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchWorks.Response = search.body
+    // handle [searchResult] as you wish
+}
+
+```
+
+</details>
+
