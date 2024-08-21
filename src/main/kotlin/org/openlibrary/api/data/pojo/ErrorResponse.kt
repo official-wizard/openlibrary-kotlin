@@ -1,8 +1,8 @@
-package org.openlibrary.api.data.pojo.works
+package org.openlibrary.api.data.pojo
 
 import com.google.gson.annotations.SerializedName
 
-class SearchError {
+class ErrorResponse {
 
     data class Response(
 
