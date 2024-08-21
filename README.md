@@ -78,10 +78,10 @@ if (authenticationResponse.authenticated) {
 
 ## More Examples
 
-### Search
+### Book Search
 
 <details>
-<summary>Search (Query)</summary>
+<summary>Query</summary>
 <br>
 
 | Name   | Type   | Description                                                     | Example               | required |
@@ -110,7 +110,7 @@ if (search is NetworkResponse.Success) {
 </details>
 
 <details>
-<summary>Search (Title)</summary>
+<summary>Title</summary>
 <br>
 
 | Name   | Type   | Description                                                     | Example               | required |
@@ -139,7 +139,7 @@ if (search is NetworkResponse.Success) {
 </details>
 
 <details>
-<summary>Search (Author)</summary>
+<summary>Author</summary>
 <br>
 
 | Name   | Type   | Description                                                     | Example     | required |
@@ -169,10 +169,10 @@ if (search is NetworkResponse.Success) {
 
 ---
 
-### Profile (My)
+### Profile Search (My)
 
 <details>
-<summary>Search (Want To Read Books)</summary>
+<summary>Want To Read Books</summary>
 <br>
 
 | Name     | Type   | Description                                                     | Example | required |
@@ -201,7 +201,7 @@ if (search is NetworkResponse.Success) {
 </details>
 
 <details>
-<summary>Search (Currently Reading Books)</summary>
+<summary>Currently Reading Books</summary>
 <br>
 
 | Name     | Type   | Description                                                     | Example | required |
@@ -230,7 +230,7 @@ if (search is NetworkResponse.Success) {
 </details>
 
 <details>
-<summary>Search (Already Read Books)</summary>
+<summary>Already Read Books</summary>
 <br>
 
 | Name     | Type   | Description                                                     | Example | required |
