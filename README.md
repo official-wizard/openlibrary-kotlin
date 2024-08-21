@@ -5,7 +5,7 @@
     </a>
 </p>
 
-<h1 align="center"><a href="https://openlibrary.org/developers/api">OpenLibrary.com</a> Client for Kotlin</h1>
+<h1 align="center"><a href="https://openlibrary.org/developers/api">OpenLibrary.org</a> Client for Kotlin</h1>
 
 ## Installation
 
