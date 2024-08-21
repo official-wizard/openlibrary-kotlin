@@ -78,11 +78,42 @@ if (authenticationResponse.authenticated) {
 
 ## More Examples
 
+### Search
+
+<details>
+<summary>Search (Query)</summary>
+<br>
+
+| Name   | Type   | Description                                                     | Example               | required |
+|:-------|:-------|:----------------------------------------------------------------|:----------------------|----------|
+| query  | String | The query you'd like to search for.                             | The Lord of The Rings | yes      |
+| sort   | String | How you'd like to sort the query, by default it uses relevancy. | new                   | no       |
+| lang   | String | The users language as a two letter (ISO 639-1) language code.   | en                    | no       |
+| offset | Long   | offset the list by the provided amount.                         | 50                    | no       |
+| page   | Long   | The page you'd like to traverse to.                             | 0                     | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryClient = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchBooks.Response, SearchBooks.Response>
+    = api.searchBooksByQuery(query = "The Lord of the Rings")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchBooks.Respnose = search.body
+    // handle [searchResult] as you wish
+}
+
+```
+
+</details>
+
 <details>
 <summary>Create List</summary>
 <br>
 
-> A call to updateList() in this manner will will update a pre-existing list with the details provided!
+> A call to `createList` in this manner will will update a pre-existing list with the details provided!
 
 > **NOTE** You must have the client authenticated to do this!
 
