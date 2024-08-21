@@ -342,7 +342,6 @@ if (authenticationResponse.authenticated) {
 | Name   | Type   | Description                             | Example | required |
 |:-------|:-------|:----------------------------------------|:--------|----------|
 | olid   | String | the OLID to the works.                  | OL01W   | yes      |
-| offset | Long   | offset the list by the provided amount. | 50      | no       |
 
 **Example**
 ```kotlin
@@ -357,6 +356,54 @@ if (search is NetworkResponse.Success) {
     // handle [searchResult] as you wish
 }
 
+```
+
+</details>
+
+<details>
+<summary>Editions</summary>
+<br>
+
+| Name   | Type   | Description                             | Example | required |
+|:-------|:-------|:----------------------------------------|:--------|----------|
+| olid   | String | the OLID to the works.                  | OL01W   | yes      |
+| offset | Long   | offset the list by the provided amount. | 50      | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchWorksEditions.Response, ErrorResponse.Response>
+    = api.searchWorksEditions(olid = "OL01W")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchWorksEditions.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Bookshelves</summary>
+<br>
+
+| Name   | Type   | Description                             | Example | required |
+|:-------|:-------|:----------------------------------------|:--------|----------|
+| olid   | String | the OLID to the works.                  | OL01W   | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchWorksBookshelves.Response, ErrorResponse.Response>
+    = api.searchWorksBookshelves(olid = "OL01W")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchWorksBookshelves.Response = search.body
+    // handle [searchResult] as you wish
+}
 ```
 
 </details>
