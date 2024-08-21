@@ -89,9 +89,9 @@ interface OpenLibraryInterface {
     ): NetworkResponse<SearchMyBooks.Response, SearchMyBooks.Response>
 
     @Mock @MockResponse(body = "/v1/works/SearchWorks.json")
-    @GET("/works/{workId}.json")
+    @GET("/works/{olid}.json")
     suspend fun searchWorks(
-        @Path("workId") workId: String,
+        @Path("olid") olid: String,
     ): NetworkResponse<SearchWorks.Response, ErrorResponse.Response>
 
     @Mock @MockResponse(body = "/v1/works/SearchWorksEditions.json")
