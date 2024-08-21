@@ -408,3 +408,51 @@ if (search is NetworkResponse.Success) {
 
 </details>
 
+<details>
+<summary>Ratings</summary>
+<br>
+
+| Name   | Type   | Description                             | Example | required |
+|:-------|:-------|:----------------------------------------|:--------|----------|
+| olid   | String | the OLID to the works.                  | OL01W   | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchWorksRatings.Response, ErrorResponse.Response>
+    = api.searchWorksRatings(olid = "OL01W")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchWorksRatings.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+
+</details>
+
+<details>
+<summary>Isbn</summary>
+<br>
+
+| Name | Type   | Description            | Example | required |
+|:-----|:-------|:-----------------------|:--------|----------|
+| isbn | String | the isbn to the works. | 0000    | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchIsbn.Response, ErrorResponse.Response>
+    = api.searchWorksIsbn(isbn = "0000")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchIsbn.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+
+</details>
+
