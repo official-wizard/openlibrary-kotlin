@@ -110,6 +110,35 @@ if (search is NetworkResponse.Success) {
 </details>
 
 <details>
+<summary>Search (Title)</summary>
+<br>
+
+| Name   | Type   | Description                                                     | Example               | required |
+|:-------|:-------|:----------------------------------------------------------------|:----------------------|----------|
+| title  | String | The title you'd like to search for.                             | The Lord of The Rings | yes      |
+| sort   | String | How you'd like to sort the query, by default it uses relevancy. | new                   | no       |
+| lang   | String | The users language as a two letter (ISO 639-1) language code.   | en                    | no       |
+| offset | Long   | offset the list by the provided amount.                         | 50                    | no       |
+| page   | Long   | The page you'd like to traverse to.                             | 0                     | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchBooks.Response, SearchBooks.Response>
+    = api.searchBooksByTitle(title = "The Lord of the Rings")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchBooks.Response = search.body
+    // handle [searchResult] as you wish
+}
+
+```
+
+</details>
+
+<details>
 <summary>Create List</summary>
 <br>
 
