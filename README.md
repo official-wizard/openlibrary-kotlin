@@ -142,13 +142,13 @@ if (search is NetworkResponse.Success) {
 <summary>Search (Author)</summary>
 <br>
 
-| Name   | Type   | Description                                                     | Example               | required |
-|:-------|:-------|:----------------------------------------------------------------|:----------------------|----------|
-| author | String | The author you'd like to search for.                            | The Lord of The Rings | yes      |
-| sort   | String | How you'd like to sort the query, by default it uses relevancy. | new                   | no       |
-| lang   | String | The users language as a two letter (ISO 639-1) language code.   | en                    | no       |
-| offset | Long   | offset the list by the provided amount.                         | 50                    | no       |
-| page   | Long   | The page you'd like to traverse to.                             | 0                     | no       |
+| Name   | Type   | Description                                                     | Example     | required |
+|:-------|:-------|:----------------------------------------------------------------|:------------|----------|
+| author | String | The author you'd like to search for.                            | J K Rowling | yes      |
+| sort   | String | How you'd like to sort the query, by default it uses relevancy. | new         | no       |
+| lang   | String | The users language as a two letter (ISO 639-1) language code.   | en          | no       |
+| offset | Long   | offset the list by the provided amount.                         | 50          | no       |
+| page   | Long   | The page you'd like to traverse to.                             | 0           | no       |
 
 **Example**
 ```kotlin
