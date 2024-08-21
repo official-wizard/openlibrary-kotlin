@@ -4,6 +4,7 @@ import okhttp3.ResponseBody
 import org.openlibrary.api.data.pojo.account.Login
 import retrofit2.Converter
 import java.net.URI
+import java.net.URLDecoder
 
 /**
  * This [LoginConverter] class takes care of returning our [Login.Response] based on
@@ -16,14 +17,17 @@ class LoginConverter(val client: CoreClient): Converter<ResponseBody, Login.Resp
             .firstOrNull { it.name.equals("session") }
 
         if (session == null) {
-            return Login.Response(false, null)
+            return Login.Response(false)
         }
 
         if (session.value.isNullOrEmpty()) {
-            return Login.Response(false, null)
+            return Login.Response(false)
         }
 
-        return Login.Response(true, session.value)
+        val peopleData = URLDecoder.decode(session.value, "UTF-8").split(",")[0]
+        val username = peopleData.split("/")[2]
+
+        return Login.Response(true, session.value, username)
     }
 
 }

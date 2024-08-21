@@ -19,6 +19,9 @@ class Login {
         val authenticated: Boolean,
 
         @SerializedName("session")
-        val session: String?
+        val session: String? = null,
+
+        @SerializedName("username")
+        val username: String? = null
     )
 }
