@@ -275,4 +275,13 @@ interface OpenLibraryInterface {
         @Path("olid") olid: String,
         @Body createList: CreateList.Request
     ): NetworkResponse<CreateList.Response, String>
+
+    @Deprecated("Doesn't support POST requests, although docs says it should!")
+    @POST("/people/{username}/list/{olid}/seeds")
+    @Headers("Content-Type: application/json")
+    suspend fun addSeedsList(
+        @Path("username") username: String,
+        @Path("olid") olid: String,
+        @Body seeds: AddSeedsList.Request
+    ): NetworkResponse<AddSeedsList.Response, String>
 }
