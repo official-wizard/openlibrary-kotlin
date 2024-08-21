@@ -126,6 +126,14 @@
             <version>1.9.22</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp-urlconnection -->
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp-urlconnection</artifactId>
+            <version>5.0.0-alpha.14</version>
+        </dependency>
+
+
         <!-- RetroFit Dependencies -->
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
