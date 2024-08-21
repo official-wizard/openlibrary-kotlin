@@ -189,7 +189,7 @@ val identifier: Identifier = Identifier("<client user agent>")
 val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchMyBooks.Response, SearchMyBooks.Response>
-    = api.searchMyWantToReadBooks(query = "The Lord of the Rings")
+    = api.searchMyWantToReadBooks(username = "mokBot")
 
 if (search is NetworkResponse.Success) {
     val searchResult: SearchMyBooks.Response = search.body
@@ -218,7 +218,7 @@ val identifier: Identifier = Identifier("<client user agent>")
 val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchMyBooks.Response, SearchMyBooks.Response>
-    = api.searchMyCurrentlyReadingBooks(query = "The Lord of the Rings")
+    = api.searchMyCurrentlyReadingBooks(username = "mokBot")
 
 if (search is NetworkResponse.Success) {
     val searchResult: SearchMyBooks.Response = search.body
@@ -247,7 +247,7 @@ val identifier: Identifier = Identifier("<client user agent>")
 val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchMyBooks.Response, SearchMyBooks.Response>
-    = api.searchMyAlreadyReadBooks(query = "The Lord of the Rings")
+    = api.searchMyAlreadyReadBooks(username = "mokBot")
 
 if (search is NetworkResponse.Success) {
     val searchResult: SearchMyBooks.Response = search.body
