@@ -95,13 +95,13 @@ if (authenticationResponse.authenticated) {
 **Example**
 ```kotlin
 val identifier: Identifier = Identifier("<client user agent>")
-val api: OpenLibraryClient = OpenLibraryClient(identifier).api
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchBooks.Response, SearchBooks.Response>
     = api.searchBooksByQuery(query = "The Lord of the Rings")
 
 if (search is NetworkResponse.Success) {
-    val searchResult: SearchBooks.Respnose = search.body
+    val searchResult: SearchBooks.Response = search.body
     // handle [searchResult] as you wish
 }
 
