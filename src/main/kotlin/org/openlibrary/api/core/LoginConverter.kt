@@ -5,6 +5,10 @@ import org.openlibrary.api.data.pojo.account.Login
 import retrofit2.Converter
 import java.net.URI
 
+/**
+ * This [LoginConverter] class takes care of returning our [Login.Response] based on
+ * if the [client]'s CookieManager successfully has the session cookie stored.
+ */
 class LoginConverter(val client: CoreClient): Converter<ResponseBody, Login.Response> {
 
     override fun convert(p0: ResponseBody): Login.Response {
