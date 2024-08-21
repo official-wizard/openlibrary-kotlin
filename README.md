@@ -167,6 +167,99 @@ if (search is NetworkResponse.Success) {
 
 </details>
 
+---
+
+### Profile (My)
+
+<details>
+<summary>Search (Want To Read Books)</summary>
+<br>
+
+| Name     | Type   | Description                                                     | Example | required |
+|:---------|:-------|:----------------------------------------------------------------|:--------|----------|
+| username | String | The username you'd like to search for.                          | mokBot  | yes      |
+| sort     | String | How you'd like to sort the query, by default it uses relevancy. | new     | no       |
+| lang     | String | The users language as a two letter (ISO 639-1) language code.   | en      | no       |
+| offset   | Long   | offset the list by the provided amount.                         | 50      | no       |
+| page     | Long   | The page you'd like to traverse to.                             | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchMyBooks.Response, SearchMyBooks.Response>
+    = api.searchMyWantToReadBooks(query = "The Lord of the Rings")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchMyBooks.Response = search.body
+    // handle [searchResult] as you wish
+}
+
+```
+
+</details>
+
+<details>
+<summary>Search (Currently Reading Books)</summary>
+<br>
+
+| Name     | Type   | Description                                                     | Example | required |
+|:---------|:-------|:----------------------------------------------------------------|:--------|----------|
+| username | String | The username you'd like to search for.                          | mokBot  | yes      |
+| sort     | String | How you'd like to sort the query, by default it uses relevancy. | new     | no       |
+| lang     | String | The users language as a two letter (ISO 639-1) language code.   | en      | no       |
+| offset   | Long   | offset the list by the provided amount.                         | 50      | no       |
+| page     | Long   | The page you'd like to traverse to.                             | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchMyBooks.Response, SearchMyBooks.Response>
+    = api.searchMyCurrentlyReadingBooks(query = "The Lord of the Rings")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchMyBooks.Response = search.body
+    // handle [searchResult] as you wish
+}
+
+```
+
+</details>
+
+<details>
+<summary>Search (Already Read Books)</summary>
+<br>
+
+| Name     | Type   | Description                                                     | Example | required |
+|:---------|:-------|:----------------------------------------------------------------|:--------|----------|
+| username | String | The username you'd like to search for.                          | mokBot  | yes      |
+| sort     | String | How you'd like to sort the query, by default it uses relevancy. | new     | no       |
+| lang     | String | The users language as a two letter (ISO 639-1) language code.   | en      | no       |
+| offset   | Long   | offset the list by the provided amount.                         | 50      | no       |
+| page     | Long   | The page you'd like to traverse to.                             | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchMyBooks.Response, SearchMyBooks.Response>
+    = api.searchMyAlreadyReadBooks(query = "The Lord of the Rings")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchMyBooks.Response = search.body
+    // handle [searchResult] as you wish
+}
+
+```
+
+</details>
+
+---
+
 <details>
 <summary>Create List</summary>
 <br>
