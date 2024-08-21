@@ -10,7 +10,13 @@ class CreateList {
         val name: String,
 
         @SerializedName("description")
-        val description: String
+        val description: String,
+
+        @SerializedName("tags")
+        val tags: List<String>? = null,
+
+        @SerializedName("seeds")
+        val seeds: List<String>? = null
     )
 
     data class Response(
