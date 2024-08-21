@@ -250,4 +250,11 @@ interface OpenLibraryInterface {
         @Query("username") username: String,
         @Query("password") password: String,
     ): NetworkResponse<Login.Response, Unit>
+
+    @POST("/people/{username}/lists")
+    @Headers("Content-Type: application/json")
+    suspend fun createList(
+        @Path("username") username: String,
+        @Body createList: CreateList.Request
+    ): NetworkResponse<CreateList.Response, Unit>
 }
