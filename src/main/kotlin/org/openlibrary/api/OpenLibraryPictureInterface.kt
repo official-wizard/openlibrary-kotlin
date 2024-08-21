@@ -8,7 +8,7 @@ import org.openlibrary.api.data.pojo.cover.SearchCover
 import retrofit2.http.GET
 import retrofit2.http.Path
 
-interface OpenLibraryCoverInterface {
+interface OpenLibraryPictureInterface {
 
     @GET("/b/{partner}/{partnerId}-{size}.jpg")
     suspend fun searchCoverPicture(
