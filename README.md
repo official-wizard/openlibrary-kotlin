@@ -40,3 +40,38 @@ val api: OpenLibraryClient = OpenLibraryClient(identifier).api
 
 // access the api interface in `api`
 ```
+
+### Authentication
+Some endpoints require you to be authenticated, e.g. the ones for creating lists.
+You can easily authenticate your client by doing the following.
+
+```kotlin
+// create client instance
+val client = OpenLibraryClient(Identifier()).api
+
+// send the authentication request
+val authentication: NetworkResponse<Login.Response, Unit> =
+    client.authenticate(username = "<email>", password = "<password>")
+
+// an error occurred
+if (authentication !is NetworkResponse.Success) {
+
+    if (authentication is NetworkResponse.ServerError) {
+        // the credentials you provided are most likely invalid, refer to response code for further
+        // information
+    }
+
+    if (authentication is NetworkResponse.UnknownError) {
+        // an unknown error occurred while authenticating, handle [authentication] result
+    }
+
+    // ...
+
+    return
+}
+
+val authenticationResponse: Login.Response = authentication.body
+if (authenticationResponse.authenticated) {
+    // we've authenticated our [client], this only needs to be done once per instance
+}
+```
