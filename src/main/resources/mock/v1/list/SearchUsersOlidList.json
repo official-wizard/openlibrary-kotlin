@@ -1,0 +1,19 @@
+{
+  "links": {
+    "self": "/people/george08/lists/OL97L",
+    "seeds": "/people/george08/lists/OL97L/seeds",
+    "subjects": "/people/george08/lists/OL97L/subjects",
+    "editions": "/people/george08/lists/OL97L/editions"
+  },
+  "name": "Time Travel",
+  "type": {
+    "key": "/people/george08/lists/OL97L"
+  },
+  "description": "Happy to lose myself in reading about that.",
+  "seed_count": 5,
+  "meta": {
+    "revision": 5,
+    "created": "2010-12-17T18:50:35.064318",
+    "last_modified": "2010-12-17T18:54:58.115370"
+  }
+}

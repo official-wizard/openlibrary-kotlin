@@ -1,0 +1,265 @@
+{
+  "size": 3,
+  "start": 0,
+  "end": 50,
+  "entries": [
+    {
+      "publishers": [
+        "H. Holt and Company"
+      ],
+      "identifiers": {
+
+      },
+      "table_of_contents": [
+        {
+          "level": 1,
+          "label": "I",
+          "title": "The Inventor",
+          "pagenum": "1"
+        },
+        {
+          "level": 1,
+          "label": "II",
+          "title": "The Time Traveler Returns",
+          "pagenum": "25"
+        },
+        {
+          "level": 1,
+          "label": "III",
+          "title": "The Story Begins",
+          "pagenum": "38"
+        },
+        {
+          "level": 1,
+          "label": "IV",
+          "title": "The Golden Age",
+          "pagenum": "52"
+        },
+        {
+          "level": 1,
+          "label": "V",
+          "title": "Sunset",
+          "pagenum": "63"
+        },
+        {
+          "level": 1,
+          "label": "VI",
+          "title": "The Machine is Lost",
+          "pagenum": "79"
+        },
+        {
+          "level": 1,
+          "label": "VII",
+          "title": "The Strange Animal",
+          "pagenum": "92"
+        },
+        {
+          "level": 1,
+          "label": "VIII",
+          "title": "The Morlocks",
+          "pagenum": "120"
+        },
+        {
+          "level": 1,
+          "label": "IX",
+          "title": "When the Night Came",
+          "pagenum": "134"
+        },
+        {
+          "level": 1,
+          "label": "X",
+          "title": "The Palace of Green Porcelain",
+          "pagenum": "151"
+        },
+        {
+          "level": 1,
+          "label": "XI",
+          "title": "In the Darkness of the Forest",
+          "pagenum": "168"
+        },
+        {
+          "level": 1,
+          "label": "XII",
+          "title": "The Trap of the White Sphinx",
+          "pagenum": "185"
+        },
+        {
+          "level": 1,
+          "label": "XIII",
+          "title": "The Further Vision",
+          "pagenum": "192"
+        },
+        {
+          "level": 1,
+          "label": "XIV",
+          "title": "After The Time Traveler's Story",
+          "pagenum": "207"
+        }
+      ],
+      "series": [
+        "Buckram series"
+      ],
+      "covers": [8231888, 8231750, 6570017],
+      "lc_classifications": [
+        "PZ3.W465 Ti"
+      ],
+      "latest_revision": 11,
+      "key": "/books/OL24331810M",
+      "authors": [
+        {
+          "key": "/authors/OL13066A"
+        }
+      ],
+      "ocaid": "timemachineinven00well",
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "vii, 216 p.",
+      "classifications": {
+
+      },
+      "source_records": [
+        "ia:timemachineinven00well"
+      ],
+      "subtitle": "an invention",
+      "title": "The Time Machine",
+      "lccn": [
+        "08036642"
+      ],
+      "number_of_pages": 216,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T15:25:20.784688"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-08-24T13:00:50.074109"
+      },
+      "publish_date": "1895",
+      "publish_country": "nyu",
+      "by_statement": "by H. G. Wells",
+      "oclc_numbers": [
+        "002345875"
+      ],
+      "works": [
+        {
+          "key": "/works/OL52267W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 11
+    },
+    {
+      "publishers": [
+        "Rose Pub. Co."
+      ],
+      "covers": [6031475],
+      "lc_classifications": [
+        "PS1308 A1 1890"
+      ],
+      "latest_revision": 7,
+      "key": "/books/OL22864669M",
+      "authors": [
+        {
+          "key": "/authors/OL18319A"
+        }
+      ],
+      "ocaid": "connecticutyanke00twaiuoft",
+      "publish_places": [
+        "Toronto"
+      ],
+      "pagination": "575, [1] p. :",
+      "source_records": [
+        "ia:connecticutyanke00twaiuoft"
+      ],
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "number_of_pages": 575,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-08T12:24:54.556990"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-29T12:04:19.740921"
+      },
+      "publish_date": "1890",
+      "publish_country": "onc",
+      "by_statement": "by Mark Twain.",
+      "works": [
+        {
+          "key": "/works/OL54031W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "Collins"
+      ],
+      "pagination": "258p.",
+      "source_records": [
+        "ia:sleeperawakes00welluoft"
+      ],
+      "title": "The Sleeper Awakes",
+      "covers": [5690244],
+      "publish_date": "1921",
+      "publish_country": "|||",
+      "key": "/books/OL7219307M",
+      "authors": [
+        {
+          "key": "/authors/OL13066A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL52151W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_places": [
+        "London"
+      ],
+      "identifiers": {
+
+      },
+      "classifications": {
+
+      },
+      "ocaid": "sleeperawakes00welluoft",
+      "lc_classifications": [
+        "PR5774 W45 1921"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-20T23:42:44.755332"
+      }
+    }
+  ],
+  "links": {
+    "self": "/people/george08/lists/OL97L/editions.json",
+    "list": "/people/george08/lists/OL97L"
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "subjects": [
+    {
+      "name": "General relativity (Physics)",
+      "count": 563,
+      "url": "/subjects/general_relativity_(physics)"
+    },
+    {
+      "name": "General relativity (physics)",
+      "count": 287,
+      "url": "/subjects/general_relativity_(physics)"
+    },
+    {
+      "name": "Gravitation",
+      "count": 151,
+      "url": "/subjects/gravitation"
+    },
+    {
+      "name": "Congresses",
+      "count": 129,
+      "url": "/subjects/congresses"
+    },
+    {
+      "name": "Cosmology",
+      "count": 126,
+      "url": "/subjects/cosmology"
+    },
+    {
+      "name": "Astrophysics",
+      "count": 119,
+      "url": "/subjects/astrophysics"
+    },
+    {
+      "name": "Space and time",
+      "count": 115,
+      "url": "/subjects/space_and_time"
+    },
+    {
+      "name": "Physics",
+      "count": 96,
+      "url": "/subjects/physics"
+    },
+    {
+      "name": "Relativity (Physics)",
+      "count": 78,
+      "url": "/subjects/relativity_(physics)"
+    },
+    {
+      "name": "History",
+      "count": 57,
+      "url": "/subjects/history"
+    },
+    {
+      "name": "Mathematics",
+      "count": 56,
+      "url": "/subjects/mathematics"
+    },
+    {
+      "name": "Relativity (physics)",
+      "count": 56,
+      "url": "/subjects/relativity_(physics)"
+    },
+    {
+      "name": "Quantum gravity",
+      "count": 48,
+      "url": "/subjects/quantum_gravity"
+    },
+    {
+      "name": "Fiction",
+      "count": 47,
+      "url": "/subjects/fiction"
+    },
+    {
+      "name": "Relativité générale (Physique)",
+      "count": 45,
+      "url": "/subjects/relativité_générale_(physique)"
+    },
+    {
+      "name": "Mathematical physics",
+      "count": 43,
+      "url": "/subjects/mathematical_physics"
+    },
+    {
+      "name": "Quantum theory",
+      "count": 41,
+      "url": "/subjects/quantum_theory"
+    },
+    {
+      "name": "Space and time in fiction",
+      "count": 40,
+      "url": "/subjects/space_and_time_in_fiction"
+    },
+    {
+      "name": "Gravitational waves",
+      "count": 38,
+      "url": "/subjects/gravitational_waves"
+    },
+    {
+      "name": "Einstein, albert, 1879-1955",
+      "count": 32,
+      "url": "/subjects/einstein,_albert,_1879-1955"
+    }
+  ],
+  "places": [
+    {
+      "name": "United States",
+      "count": 7,
+      "url": "/subjects/place:united_states"
+    },
+    {
+      "name": "Germany",
+      "count": 5,
+      "url": "/subjects/place:germany"
+    },
+    {
+      "name": "London (England)",
+      "count": 4,
+      "url": "/subjects/place:london_(england)"
+    },
+    {
+      "name": "England",
+      "count": 3,
+      "url": "/subjects/place:england"
+    },
+    {
+      "name": "Angel Falls",
+      "count": 2,
+      "url": "/subjects/place:angel_falls"
+    },
+    {
+      "name": "Boston",
+      "count": 2,
+      "url": "/subjects/place:boston"
+    },
+    {
+      "name": "France",
+      "count": 2,
+      "url": "/subjects/place:france"
+    },
+    {
+      "name": "Great Britain",
+      "count": 2,
+      "url": "/subjects/place:great_britain"
+    },
+    {
+      "name": "Haiti",
+      "count": 2,
+      "url": "/subjects/place:haiti"
+    },
+    {
+      "name": "Mars (Planet)",
+      "count": 2,
+      "url": "/subjects/place:mars_(planet)"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "count": 2,
+      "url": "/subjects/place:massachusetts_institute_of_technology"
+    },
+    {
+      "name": "Potsdam",
+      "count": 2,
+      "url": "/subjects/place:potsdam"
+    },
+    {
+      "name": "Washington (State)",
+      "count": 2,
+      "url": "/subjects/place:washington_(state)"
+    },
+    {
+      "name": "Africa",
+      "count": 1,
+      "url": "/subjects/place:africa"
+    },
+    {
+      "name": "Alaska",
+      "count": 1,
+      "url": "/subjects/place:alaska"
+    },
+    {
+      "name": "Argentina",
+      "count": 1,
+      "url": "/subjects/place:argentina"
+    },
+    {
+      "name": "California",
+      "count": 1,
+      "url": "/subjects/place:california"
+    },
+    {
+      "name": "California San Francicso",
+      "count": 1,
+      "url": "/subjects/place:california_san_francicso"
+    },
+    {
+      "name": "Caribbean",
+      "count": 1,
+      "url": "/subjects/place:caribbean"
+    },
+    {
+      "name": "Chicago",
+      "count": 1,
+      "url": "/subjects/place:chicago"
+    }
+  ],
+  "people": [
+    {
+      "name": "Albert Einstein (1879-1955)",
+      "count": 28,
+      "url": "/subjects/person:albert_einstein_(1879-1955)"
+    },
+    {
+      "name": "Henri Poincaré (1854-1912)",
+      "count": 3,
+      "url": "/subjects/person:henri_poincaré_(1854-1912)"
+    },
+    {
+      "name": "Arkarian",
+      "count": 2,
+      "url": "/subjects/person:arkarian"
+    },
+    {
+      "name": "Charles w. Misner",
+      "count": 2,
+      "url": "/subjects/person:charles_w._misner"
+    },
+    {
+      "name": "D. W. Sciama (1926-)",
+      "count": 2,
+      "url": "/subjects/person:d._w._sciama_(1926-)"
+    },
+    {
+      "name": "David Hilbert (1862-1943)",
+      "count": 2,
+      "url": "/subjects/person:david_hilbert_(1862-1943)"
+    },
+    {
+      "name": "Dieter R. Brill",
+      "count": 2,
+      "url": "/subjects/person:dieter_r._brill"
+    },
+    {
+      "name": "Gregorio Ricci Curbastro (1853-1925)",
+      "count": 2,
+      "url": "/subjects/person:gregorio_ricci_curbastro_(1853-1925)"
+    },
+    {
+      "name": "Marduke",
+      "count": 2,
+      "url": "/subjects/person:marduke"
+    },
+    {
+      "name": "Roger Penrose",
+      "count": 2,
+      "url": "/subjects/person:roger_penrose"
+    },
+    {
+      "name": "Walter Lewin",
+      "count": 2,
+      "url": "/subjects/person:walter_lewin"
+    },
+    {
+      "name": "A. K. Raychaudhuri",
+      "count": 1,
+      "url": "/subjects/person:a._k._raychaudhuri"
+    },
+    {
+      "name": "Abraham Haskel Taub (1911-)",
+      "count": 1,
+      "url": "/subjects/person:abraham_haskel_taub_(1911-)"
+    },
+    {
+      "name": "Ada Byron",
+      "count": 1,
+      "url": "/subjects/person:ada_byron"
+    },
+    {
+      "name": "Alan Turing",
+      "count": 1,
+      "url": "/subjects/person:alan_turing"
+    },
+    {
+      "name": "Alice Pleasance Liddell Hargreaves (1852-1934)",
+      "count": 1,
+      "url": "/subjects/person:alice_pleasance_liddell_hargreaves_(1852-1934)"
+    },
+    {
+      "name": "Anansi",
+      "count": 1,
+      "url": "/subjects/person:anansi"
+    },
+    {
+      "name": "Antoine Arnauld (1612-1694)",
+      "count": 1,
+      "url": "/subjects/person:antoine_arnauld_(1612-1694)"
+    },
+    {
+      "name": "Augustus De Morgan (1806-1871)",
+      "count": 1,
+      "url": "/subjects/person:augustus_de_morgan_(1806-1871)"
+    },
+    {
+      "name": "B. Bertotti (1930-)",
+      "count": 1,
+      "url": "/subjects/person:b._bertotti_(1930-)"
+    }
+  ],
+  "times": [
+    {
+      "name": "20th century",
+      "count": 13,
+      "url": "/subjects/time:20th_century"
+    },
+    {
+      "name": "21st century",
+      "count": 2,
+      "url": "/subjects/time:21st_century"
+    },
+    {
+      "name": "0-1066",
+      "count": 1,
+      "url": "/subjects/time:0-1066"
+    },
+    {
+      "name": "1801-1900",
+      "count": 1,
+      "url": "/subjects/time:1801-1900"
+    },
+    {
+      "name": "18th century",
+      "count": 1,
+      "url": "/subjects/time:18th_century"
+    },
+    {
+      "name": "1935",
+      "count": 1,
+      "url": "/subjects/time:1935"
+    },
+    {
+      "name": "1982",
+      "count": 1,
+      "url": "/subjects/time:1982"
+    },
+    {
+      "name": "19th century",
+      "count": 1,
+      "url": "/subjects/time:19th_century"
+    },
+    {
+      "name": "802701",
+      "count": 1,
+      "url": "/subjects/time:802701"
+    },
+    {
+      "name": "Civil War, 1861-1865",
+      "count": 1,
+      "url": "/subjects/time:civil_war,_1861-1865"
+    },
+    {
+      "name": "Contemporary",
+      "count": 1,
+      "url": "/subjects/time:contemporary"
+    },
+    {
+      "name": "Early works to 1800",
+      "count": 1,
+      "url": "/subjects/time:early_works_to_1800"
+    },
+    {
+      "name": "The Future",
+      "count": 1,
+      "url": "/subjects/time:the_future"
+    },
+    {
+      "name": "Victorian Era",
+      "count": 1,
+      "url": "/subjects/time:victorian_era"
+    },
+    {
+      "name": "post-WWII UK",
+      "count": 1,
+      "url": "/subjects/time:post-wwii_uk"
+    }
+  ],
+  "links": {
+    "self": "/people/george08/lists/OL97L/subjects",
+    "list": "/people/george08/lists/OL97L"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "links": {
+    "self": "/people/george08/lists/OL97L/seeds",
+    "list": "/people/george08/lists/OL97L"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "url": "/books/OL24331810M",
+      "full_url": "/books/OL24331810M/The_Time_Machine",
+      "type": "edition",
+      "title": "The Time Machine",
+      "last_update": "2018-08-24T13:00:50.074109",
+      "picture": {
+        "url": "//covers.openlibrary.org/b/id/8231888-S.jpg"
+      }
+    },
+    {
+      "url": "/books/OL22864669M",
+      "full_url": "/books/OL22864669M/A_Connecticut_Yankee_in_King_Arthur's_Court",
+      "type": "edition",
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "last_update": "2020-03-29T12:04:19.740921",
+      "picture": {
+        "url": "//covers.openlibrary.org/b/id/6031475-S.jpg"
+      }
+    },
+    {
+      "url": "/books/OL7219307M",
+      "full_url": "/books/OL7219307M/The_Sleeper_Awakes",
+      "type": "edition",
+      "title": "The Sleeper Awakes",
+      "last_update": "2024-03-20T23:42:44.755332",
+      "picture": {
+        "url": "//covers.openlibrary.org/b/id/5690244-S.jpg"
+      }
+    },
+    {
+      "url": "/subjects/general_relativity_(physics)",
+      "full_url": "/subjects/general_relativity_(physics)",
+      "type": "subject",
+      "title": "subject:general relativity (physics)",
+      "last_update": null,
+      "picture": {
+        "url": "//covers.openlibrary.org/b/id/10478466-S.jpg"
+      }
+    },
+    {
+      "url": "/subjects/space_and_time_in_fiction",
+      "full_url": "/subjects/space_and_time_in_fiction",
+      "type": "subject",
+      "title": "subject:space and time in fiction",
+      "last_update": null,
+      "picture": {
+        "url": "//covers.openlibrary.org/b/id/10693768-S.jpg"
+      }
+    }
+  ]
+}

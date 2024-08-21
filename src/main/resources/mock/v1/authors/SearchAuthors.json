@@ -1,0 +1,81 @@
+{
+  "numFound": 4,
+  "start": 0,
+  "numFoundExact": true,
+  "docs": [
+    {
+      "alternate_names": [
+        "Joanne Rowling",
+        "Joanne K. Rowling",
+        "Jo Murray",
+        "Kennilworthy Whisp",
+        "JK Rowling",
+        "Robert Galbraith",
+        "Джоан Роулінг",
+        "Dzhoan Rouling",
+        "J.K. Rowling",
+        "ROWLING",
+        "روبرت غالبريث - Robert Galbraith",
+        "Rouling Dzh.K.",
+        "Newt Scamander",
+        "Newton Scamander",
+        "J. K Rowling (creator) Jack Thorne",
+        "J.k. Rowling",
+        "Rowling.J.K.",
+        "J K Rowling",
+        "J. K Rowling",
+        "J-K Rowling",
+        "Joanne K Rowling"
+      ],
+      "birth_date": "31 July 1965",
+      "key": "OL23919A",
+      "name": "J. K. Rowling",
+      "top_subjects": [
+        "Children's fiction",
+        "Fantasy fiction",
+        "Wizards, fiction",
+        "England, fiction",
+        "Potter, harry (fictitious character), fiction",
+        "Magic, fiction",
+        "Schools, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "Fiction",
+        "New York Times bestseller"
+      ],
+      "top_work": "Harry Potter and the Philosopher's Stone",
+      "type": "author",
+      "work_count": 1146,
+      "_version_": 1.8011415746308997e+18
+    },
+    {
+      "key": "OL13412347A",
+      "name": "J. K. Rowling",
+      "top_subjects": [
+        "Wizards",
+        "Motion pictures, miscellanea",
+        "Magic",
+        "Juvenile fiction",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+        "Fiction, fantasy, general"
+      ],
+      "top_work": "Mundo Mágico de Harry Potter",
+      "type": "author",
+      "work_count": 20,
+      "_version_": 1.7959858911397806e+18
+    },
+    {
+      "key": "OL13696009A",
+      "name": "J. K. ROWLING",
+      "type": "author",
+      "work_count": 0,
+      "_version_": 1.802121658726613e+18
+    },
+    {
+      "key": "OL13730612A",
+      "name": "J. K. Rowling Miles",
+      "type": "author",
+      "work_count": 0,
+      "_version_": 1.802200739548758e+18
+    }
+  ]
+}

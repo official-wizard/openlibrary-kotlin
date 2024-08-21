@@ -1,0 +1,127 @@
+{
+  "links": {
+    "self": "/books/OL1M/lists.json"
+  },
+  "size": 17,
+  "entries": [
+    {
+      "url": "/people/maayanw/lists/OL262629L",
+      "full_url": "/people/maayanw/lists/OL262629L/Book2",
+      "name": "Book2",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/maayanw/lists/OL262628L",
+      "full_url": "/people/maayanw/lists/OL262628L/Book1",
+      "name": "Book1",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/krystsinadonets/lists/OL226342L",
+      "full_url": "/people/krystsinadonets/lists/OL226342L/KD",
+      "name": "KD",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/amastej/lists/OL226326L",
+      "full_url": "/people/amastej/lists/OL226326L/Ada_lists",
+      "name": "Ada lists",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/krystsinadonets/lists/OL226320L",
+      "full_url": "/people/krystsinadonets/lists/OL226320L/KD",
+      "name": "KD",
+      "seed_count": 12,
+      "last_update": "2024-08-19T21:06:47.843599"
+    },
+    {
+      "url": "/people/danunah777/lists/OL226296L",
+      "full_url": "/people/danunah777/lists/OL226296L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223822L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223822L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223821L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223821L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223820L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223820L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223819L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223819L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223818L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223818L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223817L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223817L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223816L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223816L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223815L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223815L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/tatjana_kirotar/lists/OL223814L",
+      "full_url": "/people/tatjana_kirotar/lists/OL223814L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/rpa3578/lists/OL144771L",
+      "full_url": "/people/rpa3578/lists/OL144771L/testList",
+      "name": "testList",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    },
+    {
+      "url": "/people/dmitrykcom/lists/OL136797L",
+      "full_url": "/people/dmitrykcom/lists/OL136797L/18th_Century_Architecture",
+      "name": "18th Century Architecture",
+      "seed_count": 2,
+      "last_update": "2022-08-11T05:04:45.298586"
+    }
+  ]
+}

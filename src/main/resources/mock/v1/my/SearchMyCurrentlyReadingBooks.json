@@ -1,0 +1,936 @@
+{
+  "page": 1,
+  "numFound": 19,
+  "reading_log_entries": [
+    {
+      "work": {
+        "title": "Why Nations Fail",
+        "key": "/works/OL16568759W",
+        "author_keys": [
+          "/authors/OL1426373A",
+          "/authors/OL2445964A"
+        ],
+        "author_names": [
+          "Daron Acemoglu",
+          "James A. Robinson"
+        ],
+        "first_publish_year": 2012,
+        "lending_edition_s": "OL25422035M",
+        "edition_key": [
+          "OL39210838M",
+          "OL47530907M",
+          "OL40158660M",
+          "OL44255408M",
+          "OL35630075M",
+          "OL25422035M",
+          "OL34176105M",
+          "OL29073573M",
+          "OL27629124M",
+          "OL25370229M",
+          "OL27591884M",
+          "OL27629774M",
+          "OL27674267M",
+          "OL25256445M"
+        ],
+        "cover_id": 7253519,
+        "cover_edition_key": null
+      },
+      "logged_edition": "/books/OL27591884M",
+      "logged_date": "2024/03/08, 20:31:57"
+    },
+    {
+      "work": {
+        "title": "The Inner Game of Tennis",
+        "key": "/works/OL2619508W",
+        "author_keys": [
+          "/authors/OL381607A"
+        ],
+        "author_names": [
+          "W. Timothy Gallwey"
+        ],
+        "first_publish_year": 1834,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL31995752M",
+          "OL27511169M",
+          "OL23781804M",
+          "OL9796642M",
+          "OL9442237M",
+          "OL9615522M",
+          "OL21523086M",
+          "OL7821264M",
+          "OL18344414M",
+          "OL655842M",
+          "OL5426075M",
+          "OL7823971M",
+          "OL11115255M"
+        ],
+        "cover_id": 5413630,
+        "cover_edition_key": "OL18344414M"
+      },
+      "logged_edition": null,
+      "logged_date": "2024/02/04, 18:14:21"
+    },
+    {
+      "work": {
+        "title": "The Knowledge",
+        "key": "/works/OL17112978W",
+        "author_keys": [
+          "/authors/OL3153838A"
+        ],
+        "author_names": [
+          "Lewis Dartnell"
+        ],
+        "first_publish_year": 2014,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL35425283M",
+          "OL27422660M",
+          "OL27160263M",
+          "OL27487429M",
+          "OL27525556M",
+          "OL30112085M",
+          "OL33473592M",
+          "OL40437196M",
+          "OL25683499M"
+        ],
+        "cover_id": 7350731,
+        "cover_edition_key": "OL25683499M"
+      },
+      "logged_edition": "/books/OL27160263M",
+      "logged_date": "2023/04/02, 04:25:16"
+    },
+    {
+      "work": {
+        "title": "The 48 Laws of Power",
+        "key": "/works/OL1968368W",
+        "author_keys": [
+          "/authors/OL236414A",
+          "/authors/OL224036A"
+        ],
+        "author_names": [
+          "Robert Greene",
+          "Joost Elffers"
+        ],
+        "first_publish_year": 1998,
+        "lending_edition_s": "OL9036414M",
+        "edition_key": [
+          "OL34409598M",
+          "OL35595521M",
+          "OL39739624M",
+          "OL40224804M",
+          "OL40282595M",
+          "OL42930697M",
+          "OL46531475M",
+          "OL47445017M",
+          "OL47445018M",
+          "OL49082102M",
+          "OL49242602M",
+          "OL12956976M",
+          "OL38054576M",
+          "OL35825052M",
+          "OL47677699M",
+          "OL47677700M",
+          "OL35685164M",
+          "OL35663768M",
+          "OL27743311M",
+          "OL27669806M",
+          "OL27569877M",
+          "OL26014615M",
+          "OL8631627M",
+          "OL9036414M",
+          "OL9033115M",
+          "OL9354464M",
+          "OL43968317M",
+          "OL39268868M",
+          "OL38621564M",
+          "OL35259600M",
+          "OL32784935M",
+          "OL33463060M",
+          "OL35275450M",
+          "OL35715568M",
+          "OL36322558M",
+          "OL32175557M",
+          "OL32052806M",
+          "OL30705636M",
+          "OL27723161M",
+          "OL8631546M",
+          "OL8631581M",
+          "OL24599239M",
+          "OL8900690M",
+          "OL25418275M",
+          "OL24274306M",
+          "OL23113492M",
+          "OL23036040M",
+          "OL379262M",
+          "OL16120130M",
+          "OL25774824M",
+          "OL12586945M",
+          "OL7889022M"
+        ],
+        "cover_id": 6424160,
+        "cover_edition_key": "OL24274306M"
+      },
+      "logged_edition": "/books/OL379262M",
+      "logged_date": "2022/09/22, 20:16:34"
+    },
+    {
+      "work": {
+        "title": "Evicted",
+        "key": "/works/OL17828326W",
+        "author_keys": [
+          "/authors/OL3392352A",
+          "/authors/OL9947207A"
+        ],
+        "author_names": [
+          "Matthew Desmond",
+          "Enrique Maldonado Roldn"
+        ],
+        "first_publish_year": 2016,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL47671038M",
+          "OL47671037M",
+          "OL47671035M",
+          "OL47671036M",
+          "OL44206889M",
+          "OL40207672M",
+          "OL46539615M",
+          "OL42500259M",
+          "OL39800190M",
+          "OL39800187M",
+          "OL38790066M",
+          "OL38562234M",
+          "OL28621845M",
+          "OL27453243M",
+          "OL28179484M",
+          "OL26935025M",
+          "OL26703523M",
+          "OL26416591M"
+        ],
+        "cover_id": 12915110,
+        "cover_edition_key": "OL38562234M"
+      },
+      "logged_edition": null,
+      "logged_date": "2022/05/14, 01:22:47"
+    },
+    {
+      "work": {
+        "title": "Library",
+        "key": "/works/OL25282892W",
+        "author_keys": [
+          "/authors/OL7905101A",
+          "/authors/OL453386A"
+        ],
+        "author_names": [
+          "Arthur der Weduwen",
+          "Andrew Pettegree"
+        ],
+        "first_publish_year": 2021,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL47325286M",
+          "OL36776156M",
+          "OL35598117M",
+          "OL34180188M",
+          "OL34153682M",
+          "OL33854385M"
+        ],
+        "cover_id": 12304332,
+        "cover_edition_key": "OL35598117M"
+      },
+      "logged_edition": "/books/OL34180188M",
+      "logged_date": "2022/01/10, 18:17:10"
+    },
+    {
+      "work": {
+        "title": "Cataloging the world",
+        "key": "/works/OL17606421W",
+        "author_keys": [
+          "/authors/OL5220481A"
+        ],
+        "author_names": [
+          "Alex Wright"
+        ],
+        "first_publish_year": 2014,
+        "lending_edition_s": "OL28375875M",
+        "edition_key": [
+          "OL26210329M",
+          "OL28375875M",
+          "OL32048628M"
+        ],
+        "cover_id": 7891542,
+        "cover_edition_key": "OL26210329M"
+      },
+      "logged_edition": "/books/OL26210329M",
+      "logged_date": "2022/01/07, 19:29:36"
+    },
+    {
+      "work": {
+        "title": "\"Surely You're Joking, Mr. Feynman\"",
+        "key": "/works/OL514629W",
+        "author_keys": [
+          "/authors/OL35793A",
+          "/authors/OL892424A"
+        ],
+        "author_names": [
+          "Richard Phillips Feynman",
+          "Ralph Leighton"
+        ],
+        "first_publish_year": 1984,
+        "lending_edition_s": "OL28755839M",
+        "edition_key": [
+          "OL29592622M",
+          "OL29784046M",
+          "OL28755839M",
+          "OL27897323M",
+          "OL27362969M",
+          "OL27201697M",
+          "OL26404056M",
+          "OL25416285M",
+          "OL25416284M",
+          "OL8106669M",
+          "OL8105649M",
+          "OL7316253M",
+          "OL9270910M",
+          "OL7822686M",
+          "OL8108329M",
+          "OL19801751M",
+          "OL7453403M",
+          "OL7456916M",
+          "OL25884584M",
+          "OL7588193M",
+          "OL9656046M",
+          "OL9675890M",
+          "OL24236192M",
+          "OL24405784M",
+          "OL25434149M",
+          "OL8107663M",
+          "OL23060526M",
+          "OL25884583M",
+          "OL8108982M",
+          "OL22945043M",
+          "OL8109290M",
+          "OL7451049M",
+          "OL9512373M",
+          "OL24236193M",
+          "OL9149859M",
+          "OL21362037M",
+          "OL2062828M",
+          "OL2852326M",
+          "OL7824174M"
+        ],
+        "cover_id": 9274698,
+        "cover_edition_key": null
+      },
+      "logged_edition": "/books/OL2062828M",
+      "logged_date": "2022/01/07, 19:29:21"
+    },
+    {
+      "work": {
+        "title": "The Diamond Age",
+        "key": "/works/OL38499W",
+        "author_keys": [
+          "/authors/OL19430A"
+        ],
+        "author_names": [
+          "Neal Stephenson"
+        ],
+        "first_publish_year": 1995,
+        "lending_edition_s": "OL8887888M",
+        "edition_key": [
+          "OL33895976M",
+          "OL32849219M",
+          "OL32863282M",
+          "OL34497274M",
+          "OL30525784M",
+          "OL8887888M",
+          "OL9705528M",
+          "OL9134239M",
+          "OL9131373M",
+          "OL24941716M",
+          "OL9035653M",
+          "OL26796627M",
+          "OL27314495M",
+          "OL27315446M",
+          "OL26100187M",
+          "OL27853665M",
+          "OL9034998M",
+          "OL23230596M",
+          "OL24293032M",
+          "OL7829763M",
+          "OL7643264M",
+          "OL7826507M",
+          "OL8820077M",
+          "OL8820079M",
+          "OL18048274M",
+          "OL21661435M",
+          "OL7351805M",
+          "OL1105350M"
+        ],
+        "cover_id": 8598269,
+        "cover_edition_key": null
+      },
+      "logged_edition": "/books/OL1105350M",
+      "logged_date": "2022/01/03, 21:27:21"
+    },
+    {
+      "work": {
+        "title": "The anatomy of racial inequality",
+        "key": "/works/OL3525828W",
+        "author_keys": [
+          "/authors/OL590563A"
+        ],
+        "author_names": [
+          "Glenn C. Loury"
+        ],
+        "first_publish_year": 2002,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL34193178M",
+          "OL33903955M",
+          "OL3948974M"
+        ],
+        "cover_id": 411767,
+        "cover_edition_key": "OL3948974M"
+      },
+      "logged_edition": null,
+      "logged_date": "2021/10/31, 17:15:02"
+    },
+    {
+      "work": {
+        "title": "The consolations of philosophy",
+        "key": "/works/OL107928W",
+        "author_keys": [
+          "/authors/OL32383A"
+        ],
+        "author_names": [
+          "Alain De Botton"
+        ],
+        "first_publish_year": 2000,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL20137300M",
+          "OL8107643M",
+          "OL8106954M",
+          "OL49316M",
+          "OL20025871M"
+        ],
+        "cover_id": 418429,
+        "cover_edition_key": "OL49316M"
+      },
+      "logged_edition": null,
+      "logged_date": "2021/09/23, 19:04:33"
+    },
+    {
+      "work": {
+        "title": "Essais",
+        "key": "/works/OL1086528W",
+        "author_keys": [
+          "/authors/OL6899172A"
+        ],
+        "author_names": [
+          "Michel de Montaigne"
+        ],
+        "first_publish_year": 1600,
+        "lending_edition_s": "OL23298058M",
+        "edition_key": [
+          "OL26673310M",
+          "OL13968937M",
+          "OL13819324M",
+          "OL14644808M",
+          "OL18947563M",
+          "OL21449461M",
+          "OL6393184M",
+          "OL13672878M",
+          "OL13956820M",
+          "OL17457785M",
+          "OL18918991M",
+          "OL16563750M",
+          "OL5116227M",
+          "OL4444708M",
+          "OL15537681M",
+          "OL13922581M",
+          "OL22919831M",
+          "OL13874755M",
+          "OL23298058M",
+          "OL17384628M",
+          "OL17872904M",
+          "OL245564M",
+          "OL13850432M",
+          "OL13692358M",
+          "OL13821218M",
+          "OL596281M",
+          "OL21154282M",
+          "OL6395102M",
+          "OL13714354M",
+          "OL16946219M",
+          "OL22252605M",
+          "OL15457421M",
+          "OL14714616M",
+          "OL13741045M",
+          "OL21439048M",
+          "OL17438816M",
+          "OL23410802M",
+          "OL13720958M",
+          "OL13922583M",
+          "OL23765594M",
+          "OL13563310M",
+          "OL17521846M",
+          "OL13832856M",
+          "OL20396159M",
+          "OL18919001M",
+          "OL21154415M",
+          "OL18947590M",
+          "OL831540M",
+          "OL13821821M",
+          "OL19027850M",
+          "OL13744278M",
+          "OL19712869M",
+          "OL22475568M",
+          "OL16945685M",
+          "OL14084052M",
+          "OL6312214M",
+          "OL16546197M",
+          "OL13821228M",
+          "OL4443501M",
+          "OL13819036M",
+          "OL4028509M",
+          "OL16201211M",
+          "OL22755165M",
+          "OL16732084M",
+          "OL14197331M",
+          "OL16623418M",
+          "OL16916805M",
+          "OL20008907M",
+          "OL6922984M",
+          "OL22208495M",
+          "OL24165138M",
+          "OL18683473M",
+          "OL2608666M",
+          "OL13874725M",
+          "OL17439375M",
+          "OL16201214M",
+          "OL20168982M",
+          "OL444262M",
+          "OL21822603M",
+          "OL17145032M",
+          "OL17311101M",
+          "OL13811304M",
+          "OL16893897M",
+          "OL13850429M",
+          "OL6513820M",
+          "OL13968938M",
+          "OL17071542M",
+          "OL21135622M",
+          "OL13672887M",
+          "OL6604070M",
+          "OL16261249M",
+          "OL13959917M",
+          "OL23732282M",
+          "OL6342640M",
+          "OL6735337M",
+          "OL22282972M",
+          "OL811934M",
+          "OL16623445M",
+          "OL15430254M",
+          "OL19233393M",
+          "OL6313628M",
+          "OL16628337M",
+          "OL20084248M",
+          "OL23298055M",
+          "OL13648871M",
+          "OL21534706M",
+          "OL7175300M",
+          "OL5451911M",
+          "OL460524M",
+          "OL17728122M",
+          "OL23298182M",
+          "OL6512087M",
+          "OL13920755M",
+          "OL6300138M",
+          "OL6684051M",
+          "OL13672912M",
+          "OL14383748M",
+          "OL1518084M",
+          "OL15319718M",
+          "OL16201221M",
+          "OL13672953M",
+          "OL17328764M",
+          "OL20396458M",
+          "OL20935851M",
+          "OL21198994M",
+          "OL2211551M",
+          "OL23263862M",
+          "OL17445444M",
+          "OL5109464M",
+          "OL6206015M",
+          "OL16891374M",
+          "OL19898590M",
+          "OL7131164M",
+          "OL13811320M",
+          "OL7036054M",
+          "OL13926798M",
+          "OL23263296M",
+          "OL15457477M",
+          "OL17022259M",
+          "OL19022898M",
+          "OL18537123M",
+          "OL17258452M",
+          "OL6265526M",
+          "OL16623380M",
+          "OL5109463M",
+          "OL19175720M",
+          "OL18947409M",
+          "OL22380092M",
+          "OL17469507M",
+          "OL21170005M",
+          "OL23298052M",
+          "OL17774812M",
+          "OL3063541M",
+          "OL21169231M",
+          "OL6295284M",
+          "OL6555014M",
+          "OL2813271M",
+          "OL16894459M",
+          "OL15109831M",
+          "OL20156894M",
+          "OL17873942M",
+          "OL21399913M",
+          "OL18918979M",
+          "OL13732710M",
+          "OL14080641M",
+          "OL23298060M",
+          "OL6250349M",
+          "OL6721012M",
+          "OL18461889M",
+          "OL23037461M",
+          "OL13549954M",
+          "OL19092476M",
+          "OL13959919M",
+          "OL5971628M",
+          "OL6178236M",
+          "OL6626684M",
+          "OL13716925M",
+          "OL16694723M",
+          "OL23750892M",
+          "OL17860811M",
+          "OL21449083M",
+          "OL3599521M",
+          "OL2672895M",
+          "OL15457400M",
+          "OL16620524M",
+          "OL7226822M",
+          "OL13732991M",
+          "OL23765596M",
+          "OL14022728M",
+          "OL23765592M",
+          "OL330799M",
+          "OL7093179M",
+          "OL16890766M",
+          "OL13448695M",
+          "OL21527885M",
+          "OL13573587M",
+          "OL16347194M",
+          "OL16849830M",
+          "OL13959916M",
+          "OL13822552M",
+          "OL245496M",
+          "OL6987065M",
+          "OL16723190M",
+          "OL17333068M",
+          "OL17463576M",
+          "OL19078732M",
+          "OL6521374M",
+          "OL22919829M",
+          "OL17871597M",
+          "OL6491360M",
+          "OL13741133M",
+          "OL15457392M",
+          "OL13752948M",
+          "OL16032989M",
+          "OL16694030M",
+          "OL18391599M",
+          "OL6725752M",
+          "OL20268372M",
+          "OL18049852M",
+          "OL21527882M",
+          "OL17432195M",
+          "OL17384633M",
+          "OL16509866M",
+          "OL16569789M",
+          "OL17080440M",
+          "OL17080759M",
+          "OL23721108M",
+          "OL4057752M",
+          "OL6660084M",
+          "OL6459524M",
+          "OL13568727M",
+          "OL13859052M",
+          "OL15457377M",
+          "OL23848060M",
+          "OL23732293M",
+          "OL20228772M",
+          "OL4514862M",
+          "OL17373315M",
+          "OL13874756M",
+          "OL15537767M",
+          "OL23298044M",
+          "OL13503555M",
+          "OL17104528M",
+          "OL17433745M",
+          "OL7110911M",
+          "OL13562840M",
+          "OL13959918M",
+          "OL14301129M",
+          "OL17445440M",
+          "OL18313665M",
+          "OL17392464M",
+          "OL18360318M",
+          "OL20705219M",
+          "OL6451699M",
+          "OL21940066M",
+          "OL13811314M",
+          "OL16590382M",
+          "OL21879034M",
+          "OL21600124M",
+          "OL4055818M",
+          "OL13715316M",
+          "OL5214442M",
+          "OL6288347M",
+          "OL17337529M",
+          "OL18032911M",
+          "OL15457425M",
+          "OL3078983M",
+          "OL5658768M",
+          "OL17804501M",
+          "OL5493805M",
+          "OL21154270M",
+          "OL5312060M",
+          "OL16898218M",
+          "OL24203876M",
+          "OL19185187M",
+          "OL21527591M",
+          "OL5780543M",
+          "OL13720959M",
+          "OL13922582M",
+          "OL21215206M",
+          "OL18276681M",
+          "OL22804825M",
+          "OL13850440M",
+          "OL16386083M",
+          "OL18781296M",
+          "OL15457349M",
+          "OL16836281M",
+          "OL13672892M",
+          "OL14383968M",
+          "OL23083462M",
+          "OL6941687M",
+          "OL16558117M",
+          "OL20331033M",
+          "OL6047295M"
+        ],
+        "cover_id": 104154,
+        "cover_edition_key": "OL831540M"
+      },
+      "logged_edition": "/books/OL22380092M",
+      "logged_date": "2020/07/26, 17:42:40"
+    },
+    {
+      "work": {
+        "title": "Nonviolent Communication",
+        "key": "/works/OL2018966W",
+        "author_keys": [
+          "/authors/OL243612A"
+        ],
+        "author_names": [
+          "Marshall B. Rosenberg"
+        ],
+        "first_publish_year": 1999,
+        "lending_edition_s": "OL27210498M",
+        "edition_key": [
+          "OL27210498M",
+          "OL26587530M",
+          "OL8718181M",
+          "OL3675214M",
+          "OL24255270M",
+          "OL8857074M",
+          "OL392540M",
+          "OL15519028M"
+        ],
+        "cover_id": 940686,
+        "cover_edition_key": "OL392540M"
+      },
+      "logged_edition": "/books/OL27210498M",
+      "logged_date": "2020/06/10, 04:46:23"
+    },
+    {
+      "work": {
+        "title": "Mandarin Chinese",
+        "key": "/works/OL15162501W",
+        "author_keys": [
+          "/authors/OL2626054A",
+          "/authors/OL2626050A"
+        ],
+        "author_names": [
+          "Lexus (Firm)",
+          "Lexus"
+        ],
+        "first_publish_year": 1999,
+        "lending_edition_s": "OL23065398M",
+        "edition_key": [
+          "OL9003680M",
+          "OL23065398M"
+        ],
+        "cover_id": 7008386,
+        "cover_edition_key": "OL23065398M"
+      },
+      "logged_edition": "/books/OL23065398M",
+      "logged_date": "2019/05/01, 17:20:15"
+    },
+    {
+      "work": {
+        "title": "The Secret of Apollo",
+        "key": "/works/OL8396705W",
+        "author_keys": [
+          "/authors/OL2799395A"
+        ],
+        "author_names": [
+          "Stephen B. Johnson"
+        ],
+        "first_publish_year": 2002,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL38247872M",
+          "OL36698174M",
+          "OL7871566M",
+          "OL7870846M"
+        ],
+        "cover_id": 567093,
+        "cover_edition_key": "OL7870846M"
+      },
+      "logged_edition": "/books/OL7871566M",
+      "logged_date": "2019/04/28, 14:17:14"
+    },
+    {
+      "work": {
+        "title": "The Mastery and Uses of Fire in Antiquity",
+        "key": "/works/OL6225613W",
+        "author_keys": [
+          "/authors/OL1608797A"
+        ],
+        "author_names": [
+          "J. E. Rehder"
+        ],
+        "first_publish_year": 2000,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL33394723M",
+          "OL3970166M",
+          "OL8079607M"
+        ],
+        "cover_id": 1457389,
+        "cover_edition_key": "OL3970166M"
+      },
+      "logged_edition": null,
+      "logged_date": "2019/01/04, 00:42:49"
+    },
+    {
+      "work": {
+        "title": "Gödel, Escher, Bach",
+        "key": "/works/OL716850W",
+        "author_keys": [
+          "/authors/OL57437A"
+        ],
+        "author_names": [
+          "Douglas R. Hofstadter"
+        ],
+        "first_publish_year": 1979,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL50543264M",
+          "OL50528618M",
+          "OL47324647M",
+          "OL45298552M",
+          "OL35645429M",
+          "OL35404010M",
+          "OL18118400M",
+          "OL28265738M",
+          "OL31855035M",
+          "OL30699865M",
+          "OL26435358M",
+          "OL25898144M",
+          "OL8862405M",
+          "OL17146135M",
+          "OL13322941M",
+          "OL7462901M",
+          "OL7352418M",
+          "OL9076645M",
+          "OL25898142M",
+          "OL25898141M",
+          "OL9032905M",
+          "OL4097086M",
+          "OL85373M",
+          "OL21345696M",
+          "OL22059396M",
+          "OL21166190M",
+          "OL9135585M",
+          "OL17269416M",
+          "OL21456142M",
+          "OL4731539M"
+        ],
+        "cover_id": 14368453,
+        "cover_edition_key": "OL26435358M"
+      },
+      "logged_edition": null,
+      "logged_date": "2017/12/31, 13:52:17"
+    },
+    {
+      "work": {
+        "title": "Algorithms to Live By",
+        "key": "/works/OL17357767W",
+        "author_keys": [
+          "/authors/OL6890213A",
+          "/authors/OL7654355A"
+        ],
+        "author_names": [
+          "Brian Christian",
+          "Tom Griffiths"
+        ],
+        "first_publish_year": 2016,
+        "lending_edition_s": null,
+        "edition_key": [
+          "OL37773545M",
+          "OL28207188M",
+          "OL29603701M",
+          "OL27386382M",
+          "OL30692146M",
+          "OL34885376M",
+          "OL30775880M",
+          "OL34525107M",
+          "OL25935646M",
+          "OL27423742M"
+        ],
+        "cover_id": 8042539,
+        "cover_edition_key": "OL25935646M"
+      },
+      "logged_edition": null,
+      "logged_date": "2017/12/27, 23:40:06"
+    },
+    {
+      "work": {
+        "title": null,
+        "key": "/works/OL26500W",
+        "author_keys": [],
+        "author_names": [],
+        "first_publish_year": null,
+        "lending_edition_s": null,
+        "edition_key": null,
+        "cover_id": null,
+        "cover_edition_key": null
+      },
+      "logged_edition": null,
+      "logged_date": "2018/05/05, 01:00:45"
+    }
+  ]
+}

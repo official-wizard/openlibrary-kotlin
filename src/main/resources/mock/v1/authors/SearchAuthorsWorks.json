@@ -1,0 +1,1679 @@
+{
+  "links": {
+    "self": "/authors/OL23919A/works.json",
+    "author": "/authors/OL23919A",
+    "next": "/authors/OL23919A/works.json?offset=50"
+  },
+  "size": 470,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Die Marchen von Beedle dem Barden",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "key": "/works/OL29249755W",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-30T22:22:20.113412"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-08T10:29:36.219022"
+      }
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "subjects": [
+        "Fantasy fiction",
+        "orphans",
+        "foster homes",
+        "fantasy",
+        "literature",
+        "juvenile fantasy fiction",
+        "Locus Award winner",
+        "Bram Stoker Award winner",
+        "Whitbread Book Award winner",
+        "Adventure",
+        "Juvenile literature",
+        "Juvenile works",
+        "Juvenile audience",
+        "Children's books",
+        "Magic",
+        "Open Library Staff Picks",
+        "Juvenile fiction",
+        "Wizards",
+        "New York Times bestseller",
+        "Schools",
+        "nyt:series_books=2006-09-16",
+        "Science Fiction, Fantasy, & Magic",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+        "Witches",
+        "Harry Potter (Fictitious character)",
+        "Ficción juvenil",
+        "Magos",
+        "Magia",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
+        "Children's Books/Ages 9-12 Fiction",
+        "Spanish: Grades 4-7",
+        "General",
+        "Potter, Harry (Fictitious character)",
+        "Potter, Harry (Caracter ficticio)",
+        "Hogwarts School of Witchcraft and Wizardry (Lugar imaginario)",
+        "Escuelas",
+        "Spanish language",
+        "Literatura juvenil",
+        "Harry Potter (Fictional character)",
+        "Orphans & Foster Homes",
+        "Fantasy & Magic",
+        "French language materials",
+        "School stories",
+        "Family",
+        "Fiction",
+        "Social Themes",
+        "Friendship",
+        "Reading Level-Grade 9",
+        "Reading Level-Grade 11",
+        "Reading Level-Grade 10",
+        "Reading Level-Grade 12",
+        "Translations from English",
+        "Chinese language materials",
+        "England",
+        "Chinese fiction",
+        "Tong hua",
+        "England, fiction",
+        "Potter, harry (fictitious character), fiction",
+        "Schools, fiction",
+        "Children's fiction",
+        "Wizards, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "Magic, fiction",
+        "Fiction, fantasy, general",
+        "Magie",
+        "Magiciens",
+        "Schulferien",
+        "Deutschland",
+        "Verrat",
+        "Freundschaft",
+        "Romans, nouvelles, etc. pour la jeunesse",
+        "Junge",
+        "Good and evil",
+        "Jugendgruppe",
+        "Fabeltiere",
+        "Lüge",
+        "Rache",
+        "Boarding schools",
+        "Deutschland Grenzschutzkommando Mitte Schule",
+        "Potter, Harry (Personnage fictif)",
+        "English literature",
+        "Hermione Granger (Fictitious character)",
+        "Ron Weasley (Fictitious character)",
+        "Large type books",
+        "Juvenile films",
+        "Películas cinematográficas juveniles",
+        "Hechiceros",
+        "Potter, Harry (Personaje literario)",
+        "Children stories",
+        "Novela juvenil",
+        "Reading materials",
+        "Adventure and adventurers, fiction",
+        "Friendship, fiction",
+        "Witches, fiction",
+        "English Fantasy literature",
+        "Translations into Marathi"
+      ],
+      "key": "/works/OL82536W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "For Harry Potter, it’s the start of another far-from-ordinary year at Hogwarts when the Knight Bus crashes through the darkness and comes to an abrupt halt in front of him.\r\n\r\nIt turns out that Sirius Black, mass-murderer and follower of Lord Voldemort, has escaped – and they say he is coming after Harry.\r\n\r\nIn his first Divination class, Professor Trelawney sees an omen of death in Harry’s tea leaves.\r\n\r\nAnd perhaps most frightening of all are the Dementors patrolling the school grounds with their soul-sucking kiss – in search of fresh victims.\r\n\r\n([source][1])\r\n\r\n\r\n  [1]: https://www.jkrowling.com/book/harry-potter-prisoner-azkaban/"
+      },
+      "links": [
+        {
+          "url": "https://www.jkrowling.com/book/harry-potter-prisoner-azkaban/",
+          "title": "jkrowling.com/book/harry-potter-prisoner-azkaban/",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "title": "Wikipedia page",
+          "url": "http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "covers": [10580435, -1, 13870944, 13523561, 14171596, 13950415, 13950417, 13950421],
+      "subject_places": [
+        "England",
+        "Azkaban",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)"
+      ],
+      "subject_people": [
+        "Harry Potter",
+        "Hermione Granger",
+        "Ron Weasley",
+        "Sirius Black",
+        "Albus Dumbledore",
+        "Lord Voldemort",
+        "Professor Trelawney",
+        "Harry Potter (Fictitious character)",
+        "Hermine Granger",
+        "Ron Weasly"
+      ],
+      "excerpts": [
+        {
+          "author": {
+            "key": "/people/seabelis"
+          },
+          "comment": "first sentence",
+          "excerpt": "Harry Potter was a highly unusual boy in many ways."
+        }
+      ],
+      "first_publish_date": "1999",
+      "latest_revision": 31,
+      "revision": 31,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T07:07:29.461716"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-29T19:51:17.408436"
+      }
+    },
+    {
+      "title": "Harry Potter. Magiczny almanach",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "key": "/works/OL37507273W",
+      "type": {
+        "key": "/type/work"
+      },
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-05T12:07:34.454361"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-05T12:07:34.454361"
+      }
+    },
+    {
+      "title": "Harry Potter y la piedra filosofal ( Harry Potter 1 )",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "key": "/works/OL37505582W",
+      "type": {
+        "key": "/type/work"
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "«Con las manos temblorosas, Harry le dio la vuelta al sobre y vio un sello de lacre púrpura con un escudo de armas: un león, un águila, un tejón y una serpiente, que rodeaban una gran letra H.»\r\n\r\nHarry Potter nunca ha oído hablar de Hogwarts hasta que empiezan a caer cartas en el felpudo del número 4 de Privet Drive. Llevan la dirección escrita con tinta verde en un sobre de pergamino amarillento con un sello de lacre púrpura, y sus horripilantes tíos se apresuran a confiscarlas. Más tarde, el día que Harry cumple once años, Rubeus Hagrid, un hombre gigantesco cuyos ojos brillan como escarabajos negros, irrumpe con una noticia extraordinaria: Harry Potter es un mago, y le han concedido una plaza en el Colegio Hogwarts de Magia y Hechicería. ¡Está a punto de comenzar una aventura increíble!"
+      },
+      "subjects": [
+        "harry potter",
+        "j.k rowling",
+        "spanish"
+      ],
+      "links": [
+        {
+          "title": "Google Books Link",
+          "url": "https://books.google.es/books?id=1TP1zwEACAAJ&hl=&source=gbs_api",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-04T12:27:55.771076"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-04T12:29:48.959561"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "The Christmas Pig",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "key": "/works/OL25324546W",
+      "subjects": [
+        "nyt:childrens-middle-grade-hardcover=2021-10-31",
+        "New York Times bestseller"
+      ],
+      "covers": [12458195, 12107866],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-28T10:07:36.555792"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-20T16:51:11.760069"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter e la camera dei segreti",
+      "key": "/works/OL27297398W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-12T22:17:01.936742"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-08T14:19:05.091004"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL36992664W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-11-17T01:07:03.524357"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T16:57:29.865862"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Hārī Būtar wa-muqaddasāt al-mawt",
+      "subjects": [
+        "Wizards",
+        "Fiction",
+        "Magic",
+        "Coming of age",
+        "Harry Potter (Fictitious character)",
+        "Juvenile fiction",
+        "Schools",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)"
+      ],
+      "subject_places": [
+        "England"
+      ],
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Burdened with the dark, dangerous, and seemingly impossible task of locating and destroying Voldemort's remaining Horcruxes, Harry, feeling alone and uncertain about his future, struggles to find the inner strength he needs to follow the path set out before him."
+      },
+      "key": "/works/OL37010389W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T04:06:44.495952"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T16:57:29.865862"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 6 Harry Potter i Ksiaze Pólkrwi",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "covers": [13940470],
+      "key": "/works/OL34986547W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T15:06:46.368134"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T16:57:29.865862"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Goblet of Fire",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [13949036],
+      "key": "/works/OL34992874W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T21:28:45.766299"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T16:09:05.744517"
+      }
+    },
+    {
+      "description": "When Barry Fairbrother dies unexpectedly in his early forties, the little town of Pagford is left in shock. Pagford is, seemingly, an English idyll, with a cobbled market square and an ancient abbey, but what lies behind the pretty façade is a town at war. Rich at war with poor, teenagers at war with their parents, wives at war with their husbands, teachers at war with their pupils…. Pagford is not what it first seems. And the empty seat left by Barry on the town’s council soon becomes the catalyst for the biggest war the town has yet seen. Who will triumph in an election fraught with passion, duplicity and unexpected revelations? Blackly comic, thought-provoking and constantly surprising, *The Casual Vacancy* is J.K. Rowling’s first novel for adults.",
+      "covers": [9326674, 10407288, -1, 11164049, 11555400, 12550354, 14025059],
+      "key": "/works/OL16796166W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        },
+        {
+          "author": {
+            "key": "/authors/OL3416152A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "title": "The Casual Vacancy",
+      "subjects": [
+        "fiction",
+        "Elecciones locales",
+        "City council members",
+        "Spanish language materials",
+        "Death",
+        "Novela",
+        "Local elections",
+        "City and town life",
+        "Ciudades y pueblos",
+        "Fiction, humorous",
+        "Fiction, psychological",
+        "England, fiction",
+        "Elections",
+        "Black humor (Literature)",
+        "Englisch",
+        "Roman",
+        "Country life",
+        "nyt:combined-print-and-e-book-fiction=2012-10-14",
+        "New York Times bestseller",
+        "New York Times reviewed",
+        "English literature",
+        "Fiction, humorous, general",
+        "Vida urbana"
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "subject_places": [
+        "England"
+      ],
+      "links": [
+        {
+          "title": "New York Times review",
+          "url": "https://www.nytimes.com/2012/09/27/books/book-review-the-casual-vacancy-by-j-k-rowling.html",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "url": "http://www.nytimes.com/2012/10/28/books/review/the-casual-vacancy-by-j-k-rowling.html",
+          "title": "New York Times review",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "latest_revision": 33,
+      "revision": 33,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2012-10-23T11:02:08.599358"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T15:40:03.157524"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Philosopher's Stone",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "covers": [2520438, -1],
+      "key": "/works/OL37107139W",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T01:23:29.933661"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T01:23:29.933661"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Goblet of Fire",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171589],
+      "key": "/works/OL35166460W",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:43.801084"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T00:37:47.594309"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Goblet of Fire",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171590],
+      "key": "/works/OL35166461W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:43.803577"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T00:23:21.207803"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Goblet of Fire",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171591],
+      "key": "/works/OL35166463W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:43.806523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T00:18:27.890090"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171605],
+      "key": "/works/OL35166474W",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:58.476913"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T21:24:19.338484"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [10827517],
+      "key": "/works/OL24311521W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-29T13:35:06.530693"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T20:45:16.260357"
+      }
+    },
+    {
+      "title": "Harry Potter - the Illustrated Collection",
+      "subjects": [
+        "Children's fiction",
+        "Potter, harry (fictitious character), fiction",
+        "Fantasy fiction",
+        "Magic, fiction"
+      ],
+      "key": "/works/OL22540873W",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "type": {
+        "key": "/type/work"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-10-11T17:06:02.444412"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T20:24:08.818705"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171604],
+      "key": "/works/OL35166472W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:58.415772"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T20:22:59.353643"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171603],
+      "key": "/works/OL35166471W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:58.386617"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T20:20:43.493957"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171602],
+      "key": "/works/OL35166473W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:58.420653"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T20:17:43.058168"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "key": "/works/OL29207423W",
+      "covers": [13874813],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-20T01:37:21.964858"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T20:14:34.482652"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Philosopher's Stone",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171595],
+      "key": "/works/OL35166465W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:47.094194"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T20:08:09.261511"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Philosopher's Stone",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171594],
+      "key": "/works/OL35166464W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:47.092485"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T19:52:58.363347"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Animales fantásticos y dónde encontrarlos",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171997],
+      "key": "/works/OL35166715W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T12:06:06.038068"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T19:50:03.687861"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Animales fantásticos y dónde encontrarlos",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171998],
+      "key": "/works/OL35166718W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T12:06:06.093908"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T19:48:56.216197"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Fantastic Beasts and Where to Find Them",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "covers": [14171995],
+      "key": "/works/OL35166717W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T12:06:06.049072"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T19:46:41.318014"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Goblet of Fire (SparkNotes Literature Guide)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL8035840A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL2964716A"
+          }
+        }
+      ],
+      "key": "/works/OL29417569W",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-19T07:28:22.520395"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-21T22:03:31.704235"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 06 e il principe mezzosangue",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "covers": [13193683],
+      "key": "/works/OL34311414W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-01T14:45:33.983053"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 06",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL35269866W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:40:33.634444"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 01",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL35271357W",
+      "covers": [14473682],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:34.309610"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter i kamieĹ filozoficzny wyd. Ravenclaw - Joanne K. Rowling [KSIÄĹťKA]",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "covers": [13952108],
+      "key": "/works/OL34995573W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T23:47:28.840518"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter i kamień filozoficzny Slytherin",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "covers": [13952107],
+      "key": "/works/OL34995572W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T23:47:22.370156"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter i czara ognia",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "covers": [13942135],
+      "key": "/works/OL34987721W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T16:29:49.568302"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Une Place a Prendre (French Edition)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL33696335W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T04:14:31.577722"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 05",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL35269873W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:40:34.889029"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 5 und der Orden des Phnix. Ausgabe fr Erwachsene",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL35271308W",
+      "covers": [14473686],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:25.405600"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 07",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL35271370W",
+      "covers": [14473685],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:36.659835"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 03",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL35271360W",
+      "covers": [14473684],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:35.051804"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter 7 und die Heiligtmer des Todes. Ausgabe fr Erwachsene",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL35271312W",
+      "covers": [14473687],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:26.519465"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Garri Potter i v'jazen' Azkabanu",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL29254451W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-01T19:42:50.090350"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter eta Fenixaren Ordena",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL12670945A"
+          }
+        }
+      ],
+      "covers": [14015725],
+      "key": "/works/OL35046997W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-15T14:05:37.515433"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter i Czara Ognia",
+      "covers": [11217403],
+      "key": "/works/OL24566845W",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-06-05T11:42:09.585352"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter eta Fenixaren Ordena",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL12670945A"
+          }
+        }
+      ],
+      "covers": [14015724],
+      "key": "/works/OL35046996W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-15T14:05:37.503179"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter i kamień filozoficzny",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "covers": [13952106],
+      "key": "/works/OL34995571W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T23:47:18.949139"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter E Il Calice Di Fuoco",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL30748985W",
+      "covers": [13856028],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T02:53:03.803221"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-10T19:14:48.142602"
+      }
+    },
+    {
+      "title": "Harry Potter e as Relíquias da Morte",
+      "authors": [
+        {
+          "author": {
+            "key": "/authors/OL23919A"
+          },
+          "type": {
+            "key": "/type/author_role"
+          }
+        }
+      ],
+      "key": "/works/OL36876008W",
+      "type": {
+        "key": "/type/work"
+      },
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-10-24T22:54:28.617756"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-24T22:54:28.617756"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter and the Order of the Phoenix Pos Pack",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL36014631W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T04:50:27.529374"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-23T08:21:40.297438"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "吟遊詩人ビードルの物語 (静山社ペガサス文庫) (ハリー・ポッター)",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "key": "/works/OL29295793W",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-12T03:30:01.543141"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-23T08:21:40.297438"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Harry Potter",
+      "key": "/works/OL35298596W",
+      "subjects": [
+        "Children's fiction",
+        "Potter, harry (fictitious character), fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "Fantasy fiction",
+        "Schools, fiction",
+        "England, fiction",
+        "Magic, fiction",
+        "Wizards, fiction"
+      ],
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL23919A"
+          }
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-04T03:07:57.605614"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-23T08:21:40.297438"
+      }
+    }
+  ]
+}

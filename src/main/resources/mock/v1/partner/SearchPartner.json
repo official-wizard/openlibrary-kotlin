@@ -1,0 +1,241 @@
+{
+  "records": {
+    "/books/OL24194264M": {
+      "isbns": [
+        "0596156715",
+        "9780596156718"
+      ],
+      "issns": [],
+      "lccns": [
+        "2010277242"
+      ],
+      "oclcs": [
+        "804515247"
+      ],
+      "olids": [
+        "OL24194264M"
+      ],
+      "publishDates": [
+        "27 August 2009"
+      ],
+      "recordURL": "https://openlibrary.org/books/OL24194264M/The_Art_of_Community",
+      "data": {
+        "url": "https://openlibrary.org/books/OL24194264M/The_Art_of_Community",
+        "key": "/books/OL24194264M",
+        "title": "The Art of Community",
+        "subtitle": "Building the New Age of Participation (Theory in Practice)",
+        "authors": [
+          {
+            "url": "https://openlibrary.org/authors/OL2654203A/Jono_Bacon",
+            "name": "Jono Bacon"
+          }
+        ],
+        "number_of_pages": 364,
+        "weight": "1.43 pounds",
+        "identifiers": {
+          "isbn_10": [
+            "0596156715"
+          ],
+          "isbn_13": [
+            "9780596156718"
+          ],
+          "lccn": [
+            "2010277242"
+          ],
+          "oclc": [
+            "804515247"
+          ],
+          "openlibrary": [
+            "OL24194264M"
+          ]
+        },
+        "classifications": {
+          "lc_classifications": [
+            "TK5105.83 .B33 2009"
+          ],
+          "dewey_decimal_class": [
+            "006.7/54"
+          ]
+        },
+        "publishers": [
+          {
+            "name": "O'Reilly"
+          }
+        ],
+        "publish_places": [
+          {
+            "name": "California, USA"
+          }
+        ],
+        "publish_date": "27 August 2009",
+        "subjects": [
+          {
+            "name": "Social aspects",
+            "url": "https://openlibrary.org/subjects/social_aspects"
+          },
+          {
+            "name": "Interactive computer systems",
+            "url": "https://openlibrary.org/subjects/interactive_computer_systems"
+          },
+          {
+            "name": "Electronic villages (Computer networks)",
+            "url": "https://openlibrary.org/subjects/electronic_villages_(computer_networks)"
+          },
+          {
+            "name": "Online social networks",
+            "url": "https://openlibrary.org/subjects/online_social_networks"
+          },
+          {
+            "name": "Computer software, development",
+            "url": "https://openlibrary.org/subjects/computer_software,_development"
+          },
+          {
+            "name": "Business, computer programs",
+            "url": "https://openlibrary.org/subjects/business,_computer_programs"
+          },
+          {
+            "name": "project management",
+            "url": "https://openlibrary.org/subjects/project_management"
+          },
+          {
+            "name": "Computer networks",
+            "url": "https://openlibrary.org/subjects/computer_networks"
+          },
+          {
+            "name": "Communities",
+            "url": "https://openlibrary.org/subjects/communities"
+          }
+        ],
+        "ebooks": [
+          {
+            "preview_url": "https://archive.org/details/artcommunitybuil00baco",
+            "availability": "full",
+            "formats": {
+              "pdf": {
+                "url": "https://archive.org/download/artcommunitybuil00baco/artcommunitybuil00baco.pdf"
+              },
+              "epub": {
+                "url": "https://archive.org/download/artcommunitybuil00baco/artcommunitybuil00baco.epub"
+              },
+              "text": {
+                "url": "https://archive.org/download/artcommunitybuil00baco/artcommunitybuil00baco_djvu.txt"
+              }
+            },
+            "read_url": "https://archive.org/stream/artcommunitybuil00baco"
+          }
+        ],
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/8619368-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/8619368-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/8619368-L.jpg"
+        }
+      },
+      "details": {
+        "bib_key": "isbn:0596156715",
+        "info_url": "https://openlibrary.org/books/OL24194264M/The_Art_of_Community",
+        "preview": "full",
+        "preview_url": "https://archive.org/details/artcommunitybuil00baco",
+        "thumbnail_url": "https://covers.openlibrary.org/b/id/8619368-S.jpg",
+        "details": {
+          "publishers": [
+            "O'Reilly"
+          ],
+          "subtitle": "Building the New Age of Participation (Theory in Practice)",
+          "contributors": [
+            {
+              "name": "Leo Laporte",
+              "role": "Foreword"
+            }
+          ],
+          "covers": [8619368],
+          "physical_format": "Paperback",
+          "key": "/books/OL24194264M",
+          "publish_places": [
+            "California, USA"
+          ],
+          "source_records": [
+            "ia:artcommunitybuil00baco",
+            "ia:artcommunitybuil00baco_438",
+            "marc:marc_loc_2016/BooksAll.2016.part37.utf8:180935038:1615",
+            "bwb:9780596156718",
+            "promise:bwb_daily_pallets_2023-10-18:O9-ASF-415"
+          ],
+          "title": "The Art of Community",
+          "number_of_pages": 364,
+          "languages": [
+            {
+              "key": "/languages/eng"
+            }
+          ],
+          "publish_date": "27 August 2009",
+          "works": [
+            {
+              "key": "/works/OL15058799W"
+            }
+          ],
+          "type": {
+            "key": "/type/edition"
+          },
+          "identifiers": {
+
+          },
+          "classifications": {
+
+          },
+          "physical_dimensions": "9.19 x 7 x 1 inches",
+          "weight": "1.43 pounds",
+          "ocaid": "artcommunitybuil00baco",
+          "isbn_10": [
+            "0596156715"
+          ],
+          "isbn_13": [
+            "9780596156718"
+          ],
+          "lccn": [
+            "2010277242"
+          ],
+          "oclc_numbers": [
+            "804515247"
+          ],
+          "dewey_decimal_class": [
+            "006.7/54"
+          ],
+          "lc_classifications": [
+            "TK5105.83 .B33 2009"
+          ],
+          "local_id": [
+            "urn:bwbsku:O9-ASF-415"
+          ],
+          "latest_revision": 10,
+          "revision": 10,
+          "created": {
+            "type": "/type/datetime",
+            "value": "2010-04-19T04:29:48.755799"
+          },
+          "last_modified": {
+            "type": "/type/datetime",
+            "value": "2023-10-20T01:14:00.720622"
+          }
+        }
+      }
+    }
+  },
+  "items": [
+    {
+      "enumcron": false,
+      "match": "similar",
+      "status": "full access",
+      "fromRecord": "/books/OL24194264M",
+      "ol-edition-id": "OL25379845M",
+      "ol-work-id": "OL15058799W",
+      "publishDate": "2012",
+      "contributor": "",
+      "itemURL": "http://www.archive.org/stream/ArtOfCommunitySecondEdition",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/7151878-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/7151878-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/7151878-L.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "links": {
+    "self": "/works/OL8721462W/lists.json",
+    "next": "/works/OL8721462W/lists.json?limit=50&offset=50"
+  },
+  "size": 90,
+  "entries": [
+    {
+      "url": "/people/spson1846/lists/OL262757L",
+      "full_url": "/people/spson1846/lists/OL262757L/Library_100",
+      "name": "Library 100",
+      "seed_count": 125,
+      "last_update": "2024-08-20T15:57:36.297777"
+    },
+    {
+      "url": "/people/fisokuhle_lushaba/lists/OL263770L",
+      "full_url": "/people/fisokuhle_lushaba/lists/OL263770L/Charles_Dickens",
+      "name": "Charles Dickens ",
+      "seed_count": 1,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/kristychan/lists/OL252831L",
+      "full_url": "/people/kristychan/lists/OL252831L/Chin_A",
+      "name": "Chin A",
+      "seed_count": 286,
+      "last_update": "2024-08-20T15:57:36.297777"
+    },
+    {
+      "url": "/people/kaelz/lists/OL254190L",
+      "full_url": "/people/kaelz/lists/OL254190L/for_kael",
+      "name": "for kael",
+      "seed_count": 3,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/seabelis/lists/OL203940L",
+      "full_url": "/people/seabelis/lists/OL203940L/picks",
+      "name": "picks",
+      "seed_count": 116,
+      "last_update": "2024-08-18T02:54:55.310906"
+    },
+    {
+      "url": "/people/jennifer4812/lists/OL119065L",
+      "full_url": "/people/jennifer4812/lists/OL119065L/list_of_my_books",
+      "name": "list of my books",
+      "seed_count": 17,
+      "last_update": "2024-08-20T15:57:36.297777"
+    },
+    {
+      "url": "/people/ccreate/lists/OL244989L",
+      "full_url": "/people/ccreate/lists/OL244989L/Read",
+      "name": "Read",
+      "seed_count": 125,
+      "last_update": "2024-08-19T16:52:58.196354"
+    },
+    {
+      "url": "/people/criselda_basto/lists/OL234925L",
+      "full_url": "/people/criselda_basto/lists/OL234925L/Great_books",
+      "name": "Great books",
+      "seed_count": 1,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/lmk79/lists/OL51749L",
+      "full_url": "/people/lmk79/lists/OL51749L/books_I_want_to_read",
+      "name": "books I want to read",
+      "seed_count": 17,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/jschutte0525/lists/OL115949L",
+      "full_url": "/people/jschutte0525/lists/OL115949L/Fiction",
+      "name": "Fiction",
+      "seed_count": 18,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/hyazawa/lists/OL55011L",
+      "full_url": "/people/hyazawa/lists/OL55011L/to_read",
+      "name": "to read",
+      "seed_count": 35,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/saptadipsarkar/lists/OL114694L",
+      "full_url": "/people/saptadipsarkar/lists/OL114694L/MyFav",
+      "name": "MyFav",
+      "seed_count": 6,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/horseloverhannah115/lists/OL112736L",
+      "full_url": "/people/horseloverhannah115/lists/OL112736L/Read",
+      "name": "Read",
+      "seed_count": 16,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/EshrektOgre/lists/OL105396L",
+      "full_url": "/people/EshrektOgre/lists/OL105396L/Cache",
+      "name": "Cache",
+      "seed_count": 234,
+      "last_update": "2024-08-21T05:36:04.794910"
+    },
+    {
+      "url": "/people/Mountaingirl123/lists/OL101705L",
+      "full_url": "/people/Mountaingirl123/lists/OL101705L/100_books_recommended_by_lit_professors",
+      "name": "100 books recommended by lit professors",
+      "seed_count": 7,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/fernandez1/lists/OL96677L",
+      "full_url": "/people/fernandez1/lists/OL96677L/2016_mis_libros_nacho",
+      "name": "2016 mis libros nacho",
+      "seed_count": 5,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/Mayara21/lists/OL92394L",
+      "full_url": "/people/Mayara21/lists/OL92394L/To_read",
+      "name": "To read",
+      "seed_count": 27,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/Zazzary/lists/OL88620L",
+      "full_url": "/people/Zazzary/lists/OL88620L/Read",
+      "name": "Read?",
+      "seed_count": 23,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/savwill09/lists/OL66212L",
+      "full_url": "/people/savwill09/lists/OL66212L/Need_to_Read",
+      "name": "Need to Read",
+      "seed_count": 38,
+      "last_update": "2024-08-21T05:36:04.794910"
+    },
+    {
+      "url": "/people/dillonnewell/lists/OL65849L",
+      "full_url": "/people/dillonnewell/lists/OL65849L/want_to_read",
+      "name": "want to read",
+      "seed_count": 7,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/solidayj2000/lists/OL59297L",
+      "full_url": "/people/solidayj2000/lists/OL59297L/AS_Year_10",
+      "name": "AS Year 10",
+      "seed_count": 79,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/amelianewburg/lists/OL38621L",
+      "full_url": "/people/amelianewburg/lists/OL38621L/Literature",
+      "name": "Literature",
+      "seed_count": 103,
+      "last_update": "2024-08-21T05:36:04.794910"
+    },
+    {
+      "url": "/people/710/lists/OL44075L",
+      "full_url": "/people/710/lists/OL44075L/Books_I_Want_to_Read",
+      "name": "Books I Want to Read",
+      "seed_count": 62,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/DosGatosDiablos/lists/OL53118L",
+      "full_url": "/people/DosGatosDiablos/lists/OL53118L/Books_We_Read_or_Should_Have_Read",
+      "name": "Books We Read, or Should Have Read",
+      "seed_count": 28,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/hannahmarie/lists/OL49449L",
+      "full_url": "/people/hannahmarie/lists/OL49449L/Need_To_Read",
+      "name": "Need To Read",
+      "seed_count": 6,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/ananyha2001/lists/OL47987L",
+      "full_url": "/people/ananyha2001/lists/OL47987L/hema",
+      "name": "hema",
+      "seed_count": 1,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/psession/lists/OL45914L",
+      "full_url": "/people/psession/lists/OL45914L/Future_Reading",
+      "name": "Future Reading",
+      "seed_count": 16,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/TeraSmith/lists/OL41863L",
+      "full_url": "/people/TeraSmith/lists/OL41863L/Classics_to_Read",
+      "name": "Classics to Read",
+      "seed_count": 18,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/BandageGirl/lists/OL33539L",
+      "full_url": "/people/BandageGirl/lists/OL33539L/Wonderful_reads",
+      "name": "Wonderful reads",
+      "seed_count": 5,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/gobling/lists/OL37965L",
+      "full_url": "/people/gobling/lists/OL37965L/Want_to_read",
+      "name": "Want to read",
+      "seed_count": 11,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/Megame7/lists/OL37488L",
+      "full_url": "/people/Megame7/lists/OL37488L/to_read",
+      "name": "to read",
+      "seed_count": 3,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/emmastewart/lists/OL35425L",
+      "full_url": "/people/emmastewart/lists/OL35425L/Too_Read",
+      "name": "Too Read",
+      "seed_count": 1,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/sourcerer/lists/OL34738L",
+      "full_url": "/people/sourcerer/lists/OL34738L/ZumLesen",
+      "name": "ZumLesen",
+      "seed_count": 22,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/yaright29/lists/OL33119L",
+      "full_url": "/people/yaright29/lists/OL33119L/Want_to_read",
+      "name": "Want to read",
+      "seed_count": 2,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/iknocourtneyluv/lists/OL24360L",
+      "full_url": "/people/iknocourtneyluv/lists/OL24360L/Books_I've_Read",
+      "name": "Books I've Read",
+      "seed_count": 49,
+      "last_update": "2024-08-21T05:36:04.794910"
+    },
+    {
+      "url": "/people/firesidereading43/lists/OL28926L",
+      "full_url": "/people/firesidereading43/lists/OL28926L/Unread_Literary_Classics",
+      "name": "Unread Literary Classics",
+      "seed_count": 19,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/sharizzles/lists/OL25859L",
+      "full_url": "/people/sharizzles/lists/OL25859L/unread_-_dickens",
+      "name": "unread - dickens",
+      "seed_count": 5,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/moomalabro/lists/OL22276L",
+      "full_url": "/people/moomalabro/lists/OL22276L/PD_Juvenile_Fiction",
+      "name": "PD Juvenile Fiction",
+      "seed_count": 45,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/Onomonopineapple/lists/OL19774L",
+      "full_url": "/people/Onomonopineapple/lists/OL19774L/To_Read",
+      "name": "To Read",
+      "seed_count": 22,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/madhucrispy/lists/OL15973L",
+      "full_url": "/people/madhucrispy/lists/OL15973L/read",
+      "name": "read",
+      "seed_count": 1,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/sodle/lists/OL10556L",
+      "full_url": "/people/sodle/lists/OL10556L/James_Patterson",
+      "name": "James Patterson",
+      "seed_count": 2,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/LEHIBOU/lists/OL12786L",
+      "full_url": "/people/LEHIBOU/lists/OL12786L/le_plaisir_de_la_lecture",
+      "name": "le plaisir de la lecture",
+      "seed_count": 27,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/cregoh/lists/OL11104L",
+      "full_url": "/people/cregoh/lists/OL11104L/Crego",
+      "name": "Crego",
+      "seed_count": 3,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/maddiedd/lists/OL9997L",
+      "full_url": "/people/maddiedd/lists/OL9997L/Books_to_read",
+      "name": "Books to read",
+      "seed_count": 37,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/hippieman80/lists/OL9805L",
+      "full_url": "/people/hippieman80/lists/OL9805L/Fiction_to_Read",
+      "name": "Fiction to Read",
+      "seed_count": 66,
+      "last_update": "2024-08-20T19:39:38.428417"
+    },
+    {
+      "url": "/people/chloeannemorgan/lists/OL6402L",
+      "full_url": "/people/chloeannemorgan/lists/OL6402L/To_read",
+      "name": "To read",
+      "seed_count": 26,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/EDrakos/lists/OL7609L",
+      "full_url": "/people/EDrakos/lists/OL7609L/Reading_list",
+      "name": "Reading list",
+      "seed_count": 64,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/Dante940/lists/OL5890L",
+      "full_url": "/people/Dante940/lists/OL5890L/Books_to_read",
+      "name": "Books to read",
+      "seed_count": 1,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/ranji_geo/lists/OL4440L",
+      "full_url": "/people/ranji_geo/lists/OL4440L/to_be_read",
+      "name": "to be read",
+      "seed_count": 17,
+      "last_update": "2024-08-17T20:38:13.020207"
+    },
+    {
+      "url": "/people/DrPatrizia/lists/OL831L",
+      "full_url": "/people/DrPatrizia/lists/OL831L/To_Read",
+      "name": "To Read",
+      "seed_count": 27,
+      "last_update": "2024-08-17T20:38:13.020207"
+    }
+  ]
+}

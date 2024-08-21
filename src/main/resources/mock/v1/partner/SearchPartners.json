@@ -1,0 +1,632 @@
+{
+  "1": {
+    "records": {
+      "/books/OL6068644M": {
+        "isbns": [],
+        "issns": [],
+        "lccns": [
+          "50006784"
+        ],
+        "oclcs": [
+          "544609"
+        ],
+        "olids": [
+          "OL6068644M"
+        ],
+        "publishDates": [
+          "1950"
+        ],
+        "recordURL": "https://openlibrary.org/books/OL6068644M/The_interpretation_of_dreams",
+        "data": {
+          "url": "https://openlibrary.org/books/OL6068644M/The_interpretation_of_dreams",
+          "key": "/books/OL6068644M",
+          "title": "The interpretation of dreams",
+          "authors": [
+            {
+              "url": "https://openlibrary.org/authors/OL108452A/Sigmund_Freud",
+              "name": "Sigmund Freud"
+            }
+          ],
+          "number_of_pages": 477,
+          "pagination": "477 p.",
+          "by_statement": "translated by A.A. Brill",
+          "identifiers": {
+            "lccn": [
+              "50006784"
+            ],
+            "oclc": [
+              "544609"
+            ],
+            "openlibrary": [
+              "OL6068644M"
+            ]
+          },
+          "classifications": {
+            "lc_classifications": [
+              "BF1078 .F72 1950"
+            ],
+            "dewey_decimal_class": [
+              "154.6/34"
+            ]
+          },
+          "publishers": [
+            {
+              "name": "Modern Library"
+            }
+          ],
+          "publish_places": [
+            {
+              "name": "New York"
+            }
+          ],
+          "publish_date": "1950",
+          "subjects": [
+            {
+              "name": "Psychoanalysis",
+              "url": "https://openlibrary.org/subjects/psychoanalysis"
+            },
+            {
+              "name": "Dreams",
+              "url": "https://openlibrary.org/subjects/dreams"
+            },
+            {
+              "name": "Dream interpretation",
+              "url": "https://openlibrary.org/subjects/dream_interpretation"
+            },
+            {
+              "name": "Neurasthenia",
+              "url": "https://openlibrary.org/subjects/neurasthenia"
+            }
+          ],
+          "subject_places": [
+            {
+              "name": "Not in English",
+              "url": "https://openlibrary.org/subjects/place:not_in_english"
+            }
+          ],
+          "subject_people": [
+            {
+              "name": "Not in English",
+              "url": "https://openlibrary.org/subjects/person:not_in_english"
+            }
+          ],
+          "subject_times": [
+            {
+              "name": "Not in English",
+              "url": "https://openlibrary.org/subjects/time:not_in_english"
+            }
+          ],
+          "table_of_contents": [
+            {
+              "level": 0,
+              "label": "",
+              "title": "Foreword",
+              "pagenum": "v"
+            },
+            {
+              "level": 0,
+              "label": "I",
+              "title": "The Scientific Literature of Dream-Problems (up to 1900)",
+              "pagenum": "3"
+            },
+            {
+              "level": 0,
+              "label": "II",
+              "title": "The Method of Dream-Interpretation",
+              "pagenum": "8"
+            },
+            {
+              "level": 0,
+              "label": "III",
+              "title": "The Dream as Wish-Fulfillment",
+              "pagenum": "33"
+            },
+            {
+              "level": 0,
+              "label": "IV",
+              "title": "Distortion in Dreams",
+              "pagenum": "44"
+            },
+            {
+              "level": 0,
+              "label": "V",
+              "title": "The Material and Sources of Dreams",
+              "pagenum": "70"
+            },
+            {
+              "level": 0,
+              "label": "VI",
+              "title": "The Dream-Work",
+              "pagenum": "174"
+            },
+            {
+              "level": 0,
+              "label": "VII",
+              "title": "The Psychology of Dream Processes",
+              "pagenum": "368"
+            }
+          ],
+          "ebooks": [
+            {
+              "preview_url": "https://archive.org/details/interpretationof00freurich",
+              "availability": "borrow",
+              "formats": {
+
+              },
+              "borrow_url": "https://openlibrary.org/books/OL6068644M/The_interpretation_of_dreams/borrow",
+              "checkedout": false
+            }
+          ],
+          "cover": {
+            "small": "https://covers.openlibrary.org/b/id/6518338-S.jpg",
+            "medium": "https://covers.openlibrary.org/b/id/6518338-M.jpg",
+            "large": "https://covers.openlibrary.org/b/id/6518338-L.jpg"
+          }
+        },
+        "details": {
+          "bib_key": "lccn:50006784",
+          "info_url": "https://openlibrary.org/books/OL6068644M/The_interpretation_of_dreams",
+          "preview": "borrow",
+          "preview_url": "https://archive.org/details/interpretationof00freurich",
+          "thumbnail_url": "https://covers.openlibrary.org/b/id/6518338-S.jpg",
+          "details": {
+            "publishers": [
+              "Modern Library"
+            ],
+            "identifiers": {
+
+            },
+            "table_of_contents": [
+              {
+                "level": 0,
+                "label": "",
+                "title": "Foreword",
+                "pagenum": "v"
+              },
+              {
+                "level": 0,
+                "label": "I",
+                "title": "The Scientific Literature of Dream-Problems (up to 1900)",
+                "pagenum": "3"
+              },
+              {
+                "level": 0,
+                "label": "II",
+                "title": "The Method of Dream-Interpretation",
+                "pagenum": "8"
+              },
+              {
+                "level": 0,
+                "label": "III",
+                "title": "The Dream as Wish-Fulfillment",
+                "pagenum": "33"
+              },
+              {
+                "level": 0,
+                "label": "IV",
+                "title": "Distortion in Dreams",
+                "pagenum": "44"
+              },
+              {
+                "level": 0,
+                "label": "V",
+                "title": "The Material and Sources of Dreams",
+                "pagenum": "70"
+              },
+              {
+                "level": 0,
+                "label": "VI",
+                "title": "The Dream-Work",
+                "pagenum": "174"
+              },
+              {
+                "level": 0,
+                "label": "VII",
+                "title": "The Psychology of Dream Processes",
+                "pagenum": "368"
+              }
+            ],
+            "ia_box_id": [
+              "IA101323"
+            ],
+            "series": [
+              "The Modern library of the world's best books, 96"
+            ],
+            "dewey_decimal_class": [
+              "154.6/34"
+            ],
+            "covers": [6518338],
+            "local_id": [
+              "urn:trent:0116300603986",
+              "urn:sfpl:31223018899584",
+              "urn:sfpl:31223040241938",
+              "urn:sfpl:31223065733546"
+            ],
+            "lc_classifications": [
+              "BF1078 .F72 1950"
+            ],
+            "key": "/books/OL6068644M",
+            "authors": [
+              {
+                "key": "/authors/OL108452A",
+                "name": "Sigmund Freud"
+              }
+            ],
+            "ocaid": "interpretationof00freurich",
+            "publish_places": [
+              "New York"
+            ],
+            "work_title": [
+              "Traumdeutung."
+            ],
+            "pagination": "477 p.",
+            "classifications": {
+
+            },
+            "source_records": [
+              "ia:interpretationof00freurich",
+              "marc:OpenLibraries-Trent-MARCs/lbrn.mrc:1779510:712",
+              "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run01.mrc:79576543:1957",
+              "marc:marc_loc_2016/BooksAll.2016.part04.utf8:116397860:663",
+              "marc:marc_columbia/Columbia-extract-20221130-006.mrc:221694165:1223"
+            ],
+            "title": "The interpretation of dreams",
+            "work_titles": [
+              "Traumdeutung"
+            ],
+            "number_of_pages": 477,
+            "languages": [
+              {
+                "key": "/languages/eng"
+              }
+            ],
+            "lccn": [
+              "50006784"
+            ],
+            "subjects": [
+              "Dream interpretation.",
+              "Psychoanalysis."
+            ],
+            "publish_date": "1950",
+            "publish_country": "nyu",
+            "by_statement": "translated by A.A. Brill",
+            "oclc_numbers": [
+              "544609"
+            ],
+            "works": [
+              {
+                "key": "/works/OL1069300W"
+              }
+            ],
+            "type": {
+              "key": "/type/edition"
+            },
+            "latest_revision": 13,
+            "revision": 13,
+            "created": {
+              "type": "/type/datetime",
+              "value": "2008-04-01T03:28:50.625462"
+            },
+            "last_modified": {
+              "type": "/type/datetime",
+              "value": "2024-07-12T16:56:10.594726"
+            }
+          }
+        }
+      }
+    },
+    "items": [
+      {
+        "enumcron": false,
+        "match": "similar",
+        "status": "full access",
+        "fromRecord": "/books/OL6068644M",
+        "ol-edition-id": "OL4619808M",
+        "ol-work-id": "OL1069300W",
+        "publishDate": "1899",
+        "contributor": "",
+        "itemURL": "http://www.archive.org/stream/Freud_1900_Die_Traumdeutung_k",
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/7250155-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/7250155-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/7250155-L.jpg"
+        }
+      },
+      {
+        "enumcron": false,
+        "match": "similar",
+        "status": "full access",
+        "fromRecord": "/books/OL6068644M",
+        "ol-edition-id": "OL26286787M",
+        "ol-work-id": "OL1069300W",
+        "publishDate": "1911",
+        "contributor": "",
+        "itemURL": "http://www.archive.org/stream/b28111758",
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/7957176-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/7957176-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/7957176-L.jpg"
+        }
+      },
+      {
+        "enumcron": false,
+        "match": "similar",
+        "status": "full access",
+        "fromRecord": "/books/OL6068644M",
+        "ol-edition-id": "OL24406794M",
+        "ol-work-id": "OL1069300W",
+        "publishDate": "1913",
+        "contributor": "",
+        "itemURL": "http://www.archive.org/stream/interpretationof1913freu",
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/6999249-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/6999249-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/6999249-L.jpg"
+        }
+      },
+      {
+        "enumcron": false,
+        "match": "similar",
+        "status": "full access",
+        "fromRecord": "/books/OL6068644M",
+        "ol-edition-id": "OL23441934M",
+        "ol-work-id": "OL1069300W",
+        "publishDate": "1913",
+        "contributor": "",
+        "itemURL": "http://www.archive.org/stream/interpretationd00freugoog",
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/9905894-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/9905894-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/9905894-L.jpg"
+        }
+      },
+      {
+        "enumcron": false,
+        "match": "similar",
+        "status": "full access",
+        "fromRecord": "/books/OL6068644M",
+        "ol-edition-id": "OL3236063M",
+        "ol-work-id": "OL1069300W",
+        "publishDate": "1914",
+        "contributor": "",
+        "itemURL": "http://www.archive.org/stream/Traumdeutung4.VermehrteAuflage.MitBeitraumlgenVonOttoRank",
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/10054400-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/10054400-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/10054400-L.jpg"
+        }
+      },
+      {
+        "enumcron": false,
+        "match": "similar",
+        "status": "full access",
+        "fromRecord": "/books/OL6068644M",
+        "ol-edition-id": "OL6594179M",
+        "ol-work-id": "OL1069300W",
+        "publishDate": "1915",
+        "contributor": "",
+        "itemURL": "http://www.archive.org/stream/interpretationof00freu",
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/6073555-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/6073555-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/6073555-L.jpg"
+        }
+      },
+      {
+        "enumcron": false,
+        "match": "similar",
+        "status": "full access",
+        "fromRecord": "/books/OL6068644M",
+        "ol-edition-id": "OL4327872M",
+        "ol-work-id": "OL1069300W",
+        "publishDate": "1921",
+        "contributor": "",
+        "itemURL": "http://www.archive.org/stream/Traumdeutung3.VermehrteAuflage",
+        "cover": {
+          "small": "https://covers.openlibrary.org/b/id/9482565-S.jpg",
+          "medium": "https://covers.openlibrary.org/b/id/9482565-M.jpg",
+          "large": "https://covers.openlibrary.org/b/id/9482565-L.jpg"
+        }
+      }
+    ]
+  },
+  "olid:OL6179000M;lccn:55011330": {
+    "records": {
+      "/books/OL6179000M": {
+        "isbns": [],
+        "issns": [],
+        "lccns": [
+          "55011330"
+        ],
+        "oclcs": [
+          "1476098"
+        ],
+        "olids": [
+          "OL6179000M"
+        ],
+        "publishDates": [
+          "1956"
+        ],
+        "recordURL": "https://openlibrary.org/books/OL6179000M/The_new_complete_Hoyle",
+        "data": {
+          "url": "https://openlibrary.org/books/OL6179000M/The_new_complete_Hoyle",
+          "key": "/books/OL6179000M",
+          "title": "The new complete Hoyle",
+          "subtitle": "the official rules of all popular games of skill and chance with the most authoritative advice on winning play",
+          "authors": [
+            {
+              "url": "https://openlibrary.org/authors/OL551313A/Richard_L._Frey",
+              "name": "Richard L. Frey"
+            }
+          ],
+          "number_of_pages": 740,
+          "pagination": "740 p.",
+          "by_statement": "by Albert H. Morehead, Richard L. Frey [and] Geoffrey Mott-Smith.",
+          "identifiers": {
+            "librarything": [
+              "1270179"
+            ],
+            "lccn": [
+              "55011330"
+            ],
+            "oclc": [
+              "1476098"
+            ],
+            "openlibrary": [
+              "OL6179000M"
+            ]
+          },
+          "classifications": {
+            "lc_classifications": [
+              "GV1243 .F85 1956"
+            ],
+            "dewey_decimal_class": [
+              "795"
+            ]
+          },
+          "publishers": [
+            {
+              "name": "Garden City Books"
+            }
+          ],
+          "publish_places": [
+            {
+              "name": "Garden City, N.Y"
+            }
+          ],
+          "publish_date": "1956",
+          "subjects": [
+            {
+              "name": "Indoor games",
+              "url": "https://openlibrary.org/subjects/indoor_games"
+            },
+            {
+              "name": "Card games",
+              "url": "https://openlibrary.org/subjects/card_games"
+            },
+            {
+              "name": "Games",
+              "url": "https://openlibrary.org/subjects/games"
+            },
+            {
+              "name": "Cards",
+              "url": "https://openlibrary.org/subjects/cards"
+            }
+          ],
+          "notes": "First ed. by R.L. Frey.",
+          "ebooks": [
+            {
+              "preview_url": "https://archive.org/details/newcompletehoyle00frey",
+              "availability": "borrow",
+              "formats": {
+
+              },
+              "borrow_url": "https://openlibrary.org/books/OL6179000M/The_new_complete_Hoyle/borrow",
+              "checkedout": false
+            }
+          ],
+          "cover": {
+            "small": "https://covers.openlibrary.org/b/id/6543818-S.jpg",
+            "medium": "https://covers.openlibrary.org/b/id/6543818-M.jpg",
+            "large": "https://covers.openlibrary.org/b/id/6543818-L.jpg"
+          }
+        },
+        "details": {
+          "bib_key": "olid:OL6179000M",
+          "info_url": "https://openlibrary.org/books/OL6179000M/The_new_complete_Hoyle",
+          "preview": "borrow",
+          "preview_url": "https://archive.org/details/newcompletehoyle00frey",
+          "thumbnail_url": "https://covers.openlibrary.org/b/id/6543818-S.jpg",
+          "details": {
+            "publishers": [
+              "Garden City Books"
+            ],
+            "identifiers": {
+              "librarything": [
+                "1270179"
+              ]
+            },
+            "subtitle": "the official rules of all popular games of skill and chance with the most authoritative advice on winning play",
+            "ia_box_id": [
+              "IA114918"
+            ],
+            "covers": [6543818],
+            "lc_classifications": [
+              "GV1243 .F85 1956"
+            ],
+            "latest_revision": 9,
+            "key": "/books/OL6179000M",
+            "authors": [
+              {
+                "key": "/authors/OL551313A",
+                "name": "Richard L. Frey"
+              }
+            ],
+            "ocaid": "newcompletehoyle00frey",
+            "publish_places": [
+              "Garden City, N.Y"
+            ],
+            "contributions": [
+              "Morehead, Albert H. 1909- joint ed.",
+              "Mott-Smith, Geoffrey, 1902- joint ed."
+            ],
+            "languages": [
+              {
+                "key": "/languages/eng"
+              }
+            ],
+            "pagination": "740 p.",
+            "source_records": [
+              "marc:marc_records_scriblio_net/part04.dat:106739484:931",
+              "marc:marc_loc_updates/v36.i04.records.utf8:1403160:941",
+              "marc:marc_loc_updates/v37.i31.records.utf8:925950:946",
+              "ia:newcompletehoyle00frey",
+              "marc:marc_loc_2016/BooksAll.2016.part05.utf8:10205513:946"
+            ],
+            "title": "The new complete Hoyle",
+            "dewey_decimal_class": [
+              "795"
+            ],
+            "notes": {
+              "type": "/type/text",
+              "value": "First ed. by R.L. Frey."
+            },
+            "number_of_pages": 740,
+            "created": {
+              "type": "/type/datetime",
+              "value": "2008-04-01T03:28:50.625462"
+            },
+            "edition_name": "[Rev. ed.]",
+            "lccn": [
+              "55011330"
+            ],
+            "subjects": [
+              "Indoor games",
+              "Cards"
+            ],
+            "publish_date": "1956",
+            "publish_country": "nyu",
+            "last_modified": {
+              "type": "/type/datetime",
+              "value": "2020-09-27T01:32:12.539381"
+            },
+            "by_statement": "by Albert H. Morehead, Richard L. Frey [and] Geoffrey Mott-Smith.",
+            "oclc_numbers": [
+              "1476098"
+            ],
+            "works": [
+              {
+                "key": "/works/OL3378588W"
+              }
+            ],
+            "type": {
+              "key": "/type/edition"
+            },
+            "revision": 9
+          }
+        }
+      }
+    },
+    "items": []
+  }
+}

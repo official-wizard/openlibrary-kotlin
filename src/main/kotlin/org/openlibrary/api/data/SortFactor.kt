@@ -1,0 +1,33 @@
+package org.openlibrary.org.openlibrary.api.data
+
+enum class SortFactor(val factor: String) {
+    editions("editions"),
+    old("old"),
+    new_("new"),
+    rating("rating"),
+    rating_asc("rating asc"),
+    rating_desc("rating desc"),
+    readinglog("readinglog"),
+    want_to_read("want_to_read"),
+    currently_reading("currently_reading"),
+    already_read("already_read"),
+    title("title"),
+    scans("scans"),
+    lcc_sort("lcc_sort"),
+    lcc_sort_asc("lcc_sort asc"),
+    lcc_sort_desc("lcc_sort desc"),
+    ddc_sort("ddc_sort"),
+    ddc_sort_asc("ddc_sort asc"),
+    ddc_sort_desc("ddc_sort desc"),
+    ebook_access("ebook_access"),
+    ebook_access_asc("ebook_access asc"),
+    ebook_access_desc("ebook_access desc"),
+    key("key"),
+    key_asc("key asc"),
+    key_desc("key desc"),
+    random("random"),
+    random_asc("random asc"),
+    random_desc("random desc"),
+    random_hourly("random.hourly"),
+    random_daily("random.daily");
+}
