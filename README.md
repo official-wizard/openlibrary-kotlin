@@ -75,3 +75,77 @@ if (authenticationResponse.authenticated) {
     // we've authenticated our [client], this only needs to be done once per instance
 }
 ```
+
+## More Examples
+
+<details>
+<summary>Update List</summary>
+<br>
+
+> A call to updateList() in this manner will will update a pre-existing list with the details provided!
+
+> **NOTE** You must have the client authenticated to do this!
+
+**Available Parameters**
+
+| Name       | Type               | Description                                          | Example  |
+|:-----------|:-------------------|:-----------------------------------------------------|:---------|
+| username   | String             | The username authenticated for the session           | username |
+| olid       | String             | The OLID (Open Library ID) of the list               | OL01L    |
+| createList | CreateList.Request | The request object with details to create list with. | N/A      |
+
+**Example**
+```kotlin
+// create client instance
+val client = OpenLibraryClient(Identifier()).api
+
+// send the authentication request
+val authentication: NetworkResponse<Login.Response, Unit> =
+    client.authenticate(username = "<email>", password = "<password>")
+
+// an error occurred
+if (authentication !is NetworkResponse.Success) {
+
+    if (authentication is NetworkResponse.ServerError) {
+        // the credentials you provided are most likely invalid, refer to response code for further
+        // information
+    }
+
+    if (authentication is NetworkResponse.UnknownError) {
+        // an unknown error occurred while authenticating, handle [authentication] result
+    }
+
+    // ...
+
+    return
+}
+
+val authenticationResponse: Login.Response = authentication.body
+if (authenticationResponse.authenticated) {
+    // we've authenticated our [client], this only needs to be done once per instance
+
+    // make sure we have a valid username to work with
+    val username = authenticationResponse.username
+    if (username != null) {
+
+        // send request to server
+        val createList = client.createList(
+            username = username,
+            createList = CreateList.Request(
+                "<new name>",
+                "<new description>"
+            )
+        )
+
+        if (createList !is NetworkResponse.Success) {
+           // handle errors
+            return
+        }
+        
+        // handle our result
+        val result: CreateList.Response = createList.body
+    }
+}
+```
+
+</details>
