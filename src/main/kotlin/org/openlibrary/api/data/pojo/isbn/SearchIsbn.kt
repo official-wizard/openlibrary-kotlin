@@ -1,4 +1,4 @@
-package org.openlibrary.org.openlibrary.api.data.pojo.isbn
+package org.openlibrary.api.data.pojo.isbn
 
 import com.google.gson.annotations.SerializedName
 

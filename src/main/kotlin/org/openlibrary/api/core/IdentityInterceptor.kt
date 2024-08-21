@@ -1,11 +1,8 @@
 package org.openlibrary.api.core
 
-import okhttp3.HttpUrl
-import okhttp3.HttpUrl.Companion.toHttpUrlOrNull
 import okhttp3.Interceptor
-import okhttp3.Request
 import okhttp3.Response
-import org.openlibrary.org.openlibrary.api.Identifier
+import org.openlibrary.api.Identifier
 
 /**
  * This [Interceptor] takes care of identifying our client to OpenLibrary for moderation purposes

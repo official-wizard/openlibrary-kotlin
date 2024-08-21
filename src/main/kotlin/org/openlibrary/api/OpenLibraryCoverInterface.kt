@@ -1,10 +1,10 @@
-package org.openlibrary.org.openlibrary.api
+package org.openlibrary.api
 
 import com.haroldadmin.cnradapter.NetworkResponse
 import okhttp3.ResponseBody
-import org.openlibrary.org.openlibrary.api.data.CoverSize
-import org.openlibrary.org.openlibrary.api.data.Partner
-import org.openlibrary.org.openlibrary.api.data.pojo.cover.SearchCover
+import org.openlibrary.api.data.CoverSize
+import org.openlibrary.api.data.Partner
+import org.openlibrary.api.data.pojo.cover.SearchCover
 import retrofit2.http.GET
 import retrofit2.http.Path
 

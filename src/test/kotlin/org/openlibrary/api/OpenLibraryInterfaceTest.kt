@@ -5,11 +5,11 @@ import com.haroldadmin.cnradapter.NetworkResponse
 import kotlinx.coroutines.runBlocking
 import org.junit.jupiter.api.Test
 import org.openlibrary.api.test.ResourceBodyFactory
-import org.openlibrary.org.openlibrary.api.Identifier
+import org.openlibrary.api.Identifier
 import org.openlibrary.org.openlibrary.api.OpenLibraryClient
-import org.openlibrary.org.openlibrary.api.OpenLibraryInterface
-import org.openlibrary.org.openlibrary.api.data.Partner
-import org.openlibrary.org.openlibrary.api.data.SearchChangesQuery
+import org.openlibrary.api.OpenLibraryInterface
+import org.openlibrary.api.data.Partner
+import org.openlibrary.api.data.SearchChangesQuery
 import kotlin.test.assertNotNull
 
 

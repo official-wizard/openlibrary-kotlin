@@ -1,9 +1,15 @@
 package org.openlibrary.api.core.gson
 
 import com.google.gson.*
-import org.openlibrary.org.openlibrary.api.data.pojo.authors.SearchAuthorsWorks
+import org.openlibrary.api.data.pojo.authors.SearchAuthorsWorks
 import java.lang.reflect.Type
 
+/**
+ * The [DescriptionDeserializer] is important
+ * as [SearchAuthorsWorks.Response.Entry.Description] is either a string or an object
+ * 
+ * This is an inconsistency within the OpenLibrary API we must remedy.
+ */
 class DescriptionDeserializer : JsonDeserializer<SearchAuthorsWorks.Response.Entry.Description> {
 
     override fun deserialize(

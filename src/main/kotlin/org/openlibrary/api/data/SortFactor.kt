@@ -1,4 +1,4 @@
-package org.openlibrary.org.openlibrary.api.data
+package org.openlibrary.api.data
 
 enum class SortFactor(val factor: String) {
     editions("editions"),

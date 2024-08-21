@@ -1,3 +1,3 @@
-package org.openlibrary.org.openlibrary.api
+package org.openlibrary.api
 
 class Identifier(val clientID: String = "github.com/official-wizard/openlibrary-kotlin - DEMO CLIENT")

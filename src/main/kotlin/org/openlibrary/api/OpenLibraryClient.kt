@@ -1,5 +1,7 @@
 package org.openlibrary.org.openlibrary.api
 
+import org.openlibrary.api.Identifier
+import org.openlibrary.api.OpenLibraryInterface
 import org.openlibrary.api.core.CoreClient
 
 

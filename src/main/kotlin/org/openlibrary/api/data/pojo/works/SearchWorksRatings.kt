@@ -1,4 +1,4 @@
-package org.openlibrary.org.openlibrary.api.data.pojo.works
+package org.openlibrary.api.data.pojo.works
 
 import com.google.gson.annotations.SerializedName
 
