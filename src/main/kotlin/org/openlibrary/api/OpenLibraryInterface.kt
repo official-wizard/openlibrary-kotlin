@@ -3,6 +3,8 @@ package org.openlibrary.org.openlibrary.api
 import co.infinum.retromock.meta.Mock
 import co.infinum.retromock.meta.MockResponse
 import com.haroldadmin.cnradapter.NetworkResponse
+import okhttp3.ResponseBody
+import org.openlibrary.api.data.pojo.account.Login
 import org.openlibrary.org.openlibrary.api.data.Partner
 import org.openlibrary.org.openlibrary.api.data.SearchChangesQuery
 import org.openlibrary.org.openlibrary.api.data.pojo.authors.SearchAuthors
@@ -15,7 +17,11 @@ import org.openlibrary.org.openlibrary.api.data.pojo.my.SearchMyBooks
 import org.openlibrary.org.openlibrary.api.data.pojo.partner.SearchPartner
 import org.openlibrary.org.openlibrary.api.data.pojo.subjects.SearchSubjects
 import org.openlibrary.org.openlibrary.api.data.pojo.works.*
+import retrofit2.http.Body
 import retrofit2.http.GET
+import retrofit2.http.Header
+import retrofit2.http.Headers
+import retrofit2.http.POST
 import retrofit2.http.Path
 import retrofit2.http.Query
 
@@ -237,4 +243,11 @@ interface OpenLibraryInterface {
         @Query("limit") limit: Int = 20,
         @Query("offset") offset: Int = 0
     ): NetworkResponse<SearchUsersList.Response, SearchError.Response>
+
+    @POST("/account/login")
+    @Headers("Content-Type: application/x-www-form-urlencoded")
+    suspend fun authenticate(
+        @Query("username") username: String,
+        @Query("password") password: String,
+    ): NetworkResponse<Login.Response, Unit>
 }
