@@ -79,7 +79,7 @@ if (authenticationResponse.authenticated) {
 ## More Examples
 
 <details>
-<summary>Update List</summary>
+<summary>Create List</summary>
 <br>
 
 > A call to updateList() in this manner will will update a pre-existing list with the details provided!
