@@ -456,3 +456,112 @@ if (search is NetworkResponse.Success) {
 
 </details>
 
+### Authors Search
+
+<details>
+<summary>Authors</summary>
+<br>
+
+| Name  | Type   | Description                             | Example     | required |
+|:------|:-------|:----------------------------------------|:------------|----------|
+| query | String | author's query you'd like to serch for. | J K Rowling | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchAuthors.Response, SearchAuthors.Response>
+    = api.searchAuthors(query = "<author query>")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchAuthors.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+
+</details>
+
+
+### Subjects Search
+
+<details>
+<summary>Subject</summary>
+<br>
+
+| Name             | Type    | Description                           | Example   | required |
+|:-----------------|:--------|:--------------------------------------|:----------|----------|
+| subject          | String  | The subject you'd like to search for. | Love      | yes      |
+| details          | Boolean | Include details about the subject.    | True      | no       |
+| publishedInRange | String  | Date range for punishments.           | 2008-2010 | no       |
+| limit            | Int     | Limit the amount of results to return | 50        | no       |
+| offset           | Int     | Offset the results to jump to.        | 0         | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchSubjects.Response, SearchSubjects.Response>
+    = api.searchSubjects(subject = "love")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchSubjects.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+
+</details>
+
+
+### Partners Search
+
+<details>
+<summary>Partner</summary>
+<br>
+
+| Name             | Type    | Description                           | Example      | required |
+|:-----------------|:--------|:--------------------------------------|:-------------|----------|
+| partner          | Partner | A supported partner to query with.    | Partner.isbn | yes      |
+| partnerId        | String  | The partner ID to query with.         | 01a0         | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchPartner.Response, SearchPartner.Response>
+    = api.searchPartner(partner = Partner.isbn, partnerId = "01s3")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchPartner.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+
+<details>
+<summary>Partners</summary>
+<br>
+
+| Name        | Type   | Description                                       | Example                                           | required |
+|:------------|:-------|:--------------------------------------------------|:--------------------------------------------------|----------|
+| requestList | String | List of partners and the IDs you'd like to query. | id:1;lccn:50006784\|olid:OL6179000M;lccn:55011330 | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchPartner.Response, SearchPartner.Response>
+    = api.searchPartners(requestList = "id:1;lccn:50006784|olid:OL6179000M;lccn:55011330")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: Map<String, SearchPartner.Response> 
+        = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
