@@ -665,7 +665,7 @@ val identifier: Identifier = Identifier("<client user agent>")
 val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchUserOlidList.Response, ErrorResponse.Response>
-    = api.searchUsersList(username = "mekBot")
+    = api.searchUsersList(username = "mekBot", olid = "OL01L")
 
 if (search is NetworkResponse.Success) {
     val searchResult: SearchUserOlidList.Response = search.body
@@ -691,7 +691,7 @@ val identifier: Identifier = Identifier("<client user agent>")
 val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchUsersSeedList.Response, ErrorResponse.Response>
-    = api.searchUsersSeedList(username = "mekBot")
+    = api.searchUsersSeedList(username = "mekBot", olid = "OL01L")
 
 if (search is NetworkResponse.Success) {
     val searchResult: SearchUsersSeedList.Response = search.body
@@ -717,7 +717,7 @@ val identifier: Identifier = Identifier("<client user agent>")
 val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchUsersEditionList.Response, ErrorResponse.Response>
-    = api.searchUsersEditionList(username = "mekBot")
+    = api.searchUsersEditionList(username = "mekBot", olid = "OL01L")
 
 if (search is NetworkResponse.Success) {
     val searchResult: SearchUsersEditionList.Response = search.body
@@ -743,7 +743,7 @@ val identifier: Identifier = Identifier("<client user agent>")
 val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
 
 val search: NetworkResponse<SearchUsersSubjectsList.Response, ErrorResponse.Response>
-    = api.searchUsersSubjectsList(username = "mekBot")
+    = api.searchUsersSubjectsList(username = "mekBot", olid = "OL01L")
 
 if (search is NetworkResponse.Success) {
     val searchResult: SearchUsersSubjectsList.Response = search.body
