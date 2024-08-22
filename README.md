@@ -620,3 +620,249 @@ if (search is NetworkResponse.Success) {
 }
 ```
 </details>
+
+### Lists
+
+<details>
+<summary>User</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| username | String | Open Library Username                 | mekBot  | yes      |
+| limit    | Int    | Limit the amount of results to return | 50      | no       |
+| offset   | Int    | Offset the results to jump to.        | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersList.Response, ErrorResponse.Response>
+    = api.searchUsersList(username = "mekBot")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>User (OLID)</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| username | String | Open Library Username                 | mekBot  | yes      |
+| olid     | String | The OLID to query.                    | OL1AW   | yes      |
+| limit    | Int    | Limit the amount of results to return | 50      | no       |
+| offset   | Int    | Offset the results to jump to.        | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUserOlidList.Response, ErrorResponse.Response>
+    = api.searchUsersList(username = "mekBot")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUserOlidList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Seeds</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| username | String | Open Library Username                 | mekBot  | yes      |
+| olid     | String | The OLID to query.                    | OL1AW   | yes      |
+| limit    | Int    | Limit the amount of results to return | 50      | no       |
+| offset   | Int    | Offset the results to jump to.        | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersSeedList.Response, ErrorResponse.Response>
+    = api.searchUsersSeedList(username = "mekBot")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersSeedList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Editions</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| username | String | Open Library Username                 | mekBot  | yes      |
+| olid     | String | The OLID to query.                    | OL1AW   | yes      |
+| limit    | Int    | Limit the amount of results to return | 50      | no       |
+| offset   | Int    | Offset the results to jump to.        | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersEditionList.Response, ErrorResponse.Response>
+    = api.searchUsersEditionList(username = "mekBot")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersEditionList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Subjects</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| username | String | Open Library Username                 | mekBot  | yes      |
+| olid     | String | The OLID to query.                    | OL1AW   | yes      |
+| limit    | Int    | Limit the amount of results to return | 50      | no       |
+| offset   | Int    | Offset the results to jump to.        | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersSubjectsList.Response, ErrorResponse.Response>
+    = api.searchUsersSubjectsList(username = "mekBot")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersSubjectsList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>OLID Books</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| olid     | String | The OLID to query.                    | OL1AW   | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersList.Response, ErrorResponse.Response>
+    = api.searchOlidBooksList(olid = "OL01L")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Works</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| olid     | String | The OLID to query.                    | OL1AW   | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersList.Response, ErrorResponse.Response>
+    = api.searchOlidWorksList(olid = "OL01L")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Authors</summary>
+<br>
+
+| Name     | Type   | Description                           | Example | required |
+|:---------|:-------|:--------------------------------------|:--------|----------|
+| olid     | String | The OLID to query.                    | OL1AW   | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersList.Response, ErrorResponse.Response>
+    = api.searchOlidAuthorsList(olid = "OL01L")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Place (location)</summary>
+<br>
+
+| Name     | Type   | Description                 | Example       | required |
+|:---------|:-------|:----------------------------|:--------------|----------|
+| location | String | The location to search for. | san_francisco | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersList.Response, ErrorResponse.Response>
+    = api.searchSubjectsPlaceList(location = "san_francisco")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+<details>
+<summary>Query</summary>
+<br>
+
+| Name  | Type   | Description              | Example | required |
+|:------|:-------|:-------------------------|:--------|----------|
+| query | String | The query to search for. | book    | yes      |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<SearchUsersList.Response, ErrorResponse.Response>
+    = api.searchQueryList(query = "book")
+
+if (search is NetworkResponse.Success) {
+    val searchResult: SearchUsersList.Response = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
