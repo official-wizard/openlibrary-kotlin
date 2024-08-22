@@ -565,3 +565,58 @@ if (search is NetworkResponse.Success) {
 ```
 </details>
 
+### Changes Search
+
+<details>
+<summary>Recent</summary>
+<br>
+
+| Name   | Type    | Description                           | Example | required |
+|:-------|:--------|:--------------------------------------|:--------|----------|
+| bot    | Boolean | Ignore changes made by bots.          | True    | no       |
+| limit  | Int     | Limit the amount of results to return | 50      | no       |
+| offset | Int     | Offset the results to jump to.        | 0       | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<List<SearchChanges.Response>, ErrorResponse.Response>
+    = api.searchRecentChanges()
+
+if (search is NetworkResponse.Success) {
+    val searchResult: List<SearchChanges.Response>
+        = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
+
+
+<details>
+<summary>Type</summary>
+<br>
+
+| Name   | Type               | Description                           | Example                         | required |
+|:-------|:-------------------|:--------------------------------------|:--------------------------------|----------|
+| query  | SearchChangesQuery | Change type.                          | SearchChangesQuery(year = 2008) | yes      |
+| bot    | Boolean            | Ignore changes made by bots.          | True                            | no       |
+| limit  | Int                | Limit the amount of results to return | 50                              | no       |
+| offset | Int                | Offset the results to jump to.        | 0                               | no       |
+
+**Example**
+```kotlin
+val identifier: Identifier = Identifier("<client user agent>")
+val api: OpenLibraryInterface = OpenLibraryClient(identifier).api
+
+val search: NetworkResponse<List<SearchChanges.Response>, ErrorResponse.Response>
+    = api.searchChanges(query = SearchChangesQuery(year = 2008))
+
+if (search is NetworkResponse.Success) {
+    val searchResult: List<SearchChanges.Response>
+        = search.body
+    // handle [searchResult] as you wish
+}
+```
+</details>
